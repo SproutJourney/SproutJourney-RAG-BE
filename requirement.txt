@@ -1,0 +1,6 @@
+flask
+python-dotenv
+openai
+groq
+chromadb
+azure-cognitiveservices-speech

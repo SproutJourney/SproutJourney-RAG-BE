@@ -1,0 +1,362 @@
+[
+    {
+        "scenario_description": "Your friend forgot their lunch at home, and you have an extra sandwich. What do you do?",
+        "options": [
+            "A. Share your sandwich with your friend.",
+            "B. Keep both sandwiches for yourself.",
+            "C. Give the sandwich to another friend."
+        ],
+        "correct_answer": "A",
+        "explanation": "Sharing is a kind act and shows that you care about your friend.",
+        "topic_tag": "kindness",
+        "type": "dilemma"
+    },
+    {
+        "scenario_description": "You see a classmate being teased by other kids. What do you do?",
+        "options": [
+            "A. Stand up for your classmate and tell the others to stop.",
+            "B. Join in with the teasing.",
+            "C. Ignore it and walk away."
+        ],
+        "correct_answer": "A",
+        "explanation": "Standing up against bullying is the right thing to do, and it shows courage.",
+        "topic_tag": "courage",
+        "type": "dilemma"
+    },
+    {
+        "scenario_description": "You find a toy on the playground that doesn't belong to you. What do you do?",
+        "options": [
+            "A. Take the toy home because no one will notice.",
+            "B. Leave the toy where you found it.",
+            "C. Take the toy to the lost and found."
+        ],
+        "correct_answer": "C",
+        "explanation": "Returning the toy to the lost and found is the honest thing to do.",
+        "topic_tag": "honesty",
+        "type": "dilemma"
+    },
+    {
+        "scenario_description": "You accidentally break a vase at home. What do you do?",
+        "options": [
+            "A. Hide the broken pieces and pretend it never happened.",
+            "B. Tell your parents what happened and apologize.",
+            "C. Blame it on someone else."
+        ],
+        "correct_answer": "B",
+        "explanation": "Telling the truth and taking responsibility is the right thing to do.",
+        "topic_tag": "responsibility",
+        "type": "dilemma"
+    },
+    {
+        "scenario_description": "You have a big piece of cake, and your sibling asks for some. What do you do?",
+        "options": [
+            "A. Share the cake with your sibling.",
+            "B. Eat the entire piece yourself.",
+            "C. Tell your sibling to get their own."
+        ],
+        "correct_answer": "A",
+        "explanation": "Sharing is a kind and generous act, especially with family.",
+        "topic_tag": "generosity",
+        "type": "dilemma"
+    },
+    {
+        "scenario_description": "Your friend asks you to help them with their homework, but you want to play. What do you do?",
+        "options": [
+            "A. Help your friend with their homework.",
+            "B. Tell them youre too busy and go play.",
+            "C. Ignore their request and hope they forget."
+        ],
+        "correct_answer": "A",
+        "explanation": "Helping others is important, even if it means putting off your own fun.",
+        "topic_tag": "helpfulness",
+        "type": "dilemma"
+    },
+    {
+        "scenario_description": "You see someone drop some money in a store. What do you do?",
+        "options": [
+            "A. Pick up the money and keep it.",
+            "B. Tell the person they dropped their money.",
+            "C. Give the money to the store clerk."
+        ],
+        "correct_answer": "B",
+        "explanation": "Returning lost money to its owner is the honest and right thing to do.",
+        "topic_tag": "honesty",
+        "type": "dilemma"
+    },
+    {
+        "scenario_description": "Your teacher praises you for something a classmate did. What do you do?",
+        "options": [
+            "A. Accept the praise quietly.",
+            "B. Correct the teacher and give credit to your classmate.",
+            "C. Say nothing and let your classmate handle it."
+        ],
+        "correct_answer": "B",
+        "explanation": "Giving credit where its due is the honest and fair thing to do.",
+        "topic_tag": "honesty",
+        "type": "dilemma"
+    },
+    {
+        "scenario_description": "You are playing a game, and your friend is losing badly. What do you do?",
+        "options": [
+            "A. Make fun of them for losing.",
+            "B. Encourage them and offer to help them improve.",
+            "C. Stop playing so they dont feel bad."
+        ],
+        "correct_answer": "B",
+        "explanation": "Encouraging others and offering help shows good sportsmanship.",
+        "topic_tag": "sportsmanship",
+        "type": "dilemma"
+    },
+    {
+        "scenario_description": "You are in a group project, and one member isnt doing their share of the work. What do you do?",
+        "options": [
+            "A. Talk to them and try to encourage them to contribute.",
+            "B. Do all the work yourself.",
+            "C. Complain to the teacher without trying to solve it first."
+        ],
+        "correct_answer": "A",
+        "explanation": "Communication and teamwork are important in resolving conflicts.",
+        "topic_tag": "teamwork",
+        "type": "dilemma"
+    },
+    {
+        "scenario_description": "You see a new student sitting alone during lunch. What do you do?",
+        "options": [
+            "A. Invite them to sit with you.",
+            "B. Leave them alone because they might prefer it.",
+            "C. Ignore them and sit with your usual friends."
+        ],
+        "correct_answer": "A",
+        "explanation": "Including others is a kind way to make them feel welcome.",
+        "topic_tag": "inclusion",
+        "type": "dilemma"
+    },
+    {
+        "scenario_description": "You really want a new toy, but your parents say they cant afford it right now. What do you do?",
+        "options": [
+            "A. Throw a tantrum until they buy it.",
+            "B. Accept their decision and wait for a better time.",
+            "C. Ask someone else to buy it for you."
+        ],
+        "correct_answer": "B",
+        "explanation": "Understanding and patience are important when things dont go your way.",
+        "topic_tag": "patience",
+        "type": "dilemma"
+    },
+    {
+        "scenario_description": "You find out your friend is telling a lie. What do you do?",
+        "options": [
+            "A. Confront them gently and encourage them to tell the truth.",
+            "B. Tell the lie to others as well.",
+            "C. Ignore it because its not your problem."
+        ],
+        "correct_answer": "A",
+        "explanation": "Encouraging honesty helps build trust and strong friendships.",
+        "topic_tag": "honesty",
+        "type": "dilemma"
+    },
+    {
+        "scenario_description": "You are playing with your friends favorite toy, and you accidentally break it. What do you do?",
+        "options": [
+            "A. Hide the broken toy and hope they dont notice.",
+            "B. Apologize and offer to fix or replace it.",
+            "C. Blame someone else for breaking it."
+        ],
+        "correct_answer": "B",
+        "explanation": "Taking responsibility for your actions is important, even when its difficult.",
+        "topic_tag": "responsibility",
+        "type": "dilemma"
+    },
+    {
+        "scenario_description": "You see a younger child struggling to carry something heavy. What do you do?",
+        "options": [
+            "A. Offer to help them carry it.",
+            "B. Watch to see if they can do it on their own.",
+            "C. Walk away and let someone else help."
+        ],
+        "correct_answer": "A",
+        "explanation": "Helping others, especially those who are younger or weaker, is a kind and responsible act.",
+        "topic_tag": "kindness",
+        "type": "dilemma"
+    },
+    {
+        "scenario_description": "Your friend is having trouble with a math problem, but you know the answer. What do you do?",
+        "options": [
+            "A. Give them the answer so they can finish quickly.",
+            "B. Help them understand how to solve the problem.",
+            "C. Ignore their struggle and focus on your own work."
+        ],
+        "correct_answer": "B",
+        "explanation": "Helping your friend learn is more valuable than just giving them the answer.",
+        "topic_tag": "helpfulness",
+        "type": "dilemma"
+    },
+    {
+        "scenario_description": "You promised your parents you would clean your room, but your favorite show is about to start. What do you do?",
+        "options": [
+            "A. Watch the show and clean your room later.",
+            "B. Clean your room first, then watch the show.",
+            "C. Pretend you forgot and watch the show."
+        ],
+        "correct_answer": "B",
+        "explanation": "Keeping promises and completing your responsibilities shows maturity.",
+        "topic_tag": "responsibility",
+        "type": "dilemma"
+    },
+    {
+        "scenario_description": "You see someone cheating during a game at recess. What do you do?",
+        "options": [
+            "A. Tell the teacher immediately.",
+            "B. Confront them politely and ask them to play fairly.",
+            "C. Join in the cheating so you can win too."
+        ],
+        "correct_answer": "B",
+        "explanation": "Encouraging fair play is important in maintaining trust and fairness in games.",
+        "topic_tag": "fairness",
+        "type": "dilemma"
+    },
+    {
+        "scenario_description": "You borrow a book from a friend, but you accidentally damage it. What do you do?",
+        "options": [
+            "A. Return the book without mentioning the damage.",
+            "B. Apologize and offer to replace the book.",
+            "C. Keep the book and pretend you lost it."
+        ],
+        "correct_answer": "B",
+        "explanation": "Being honest and taking responsibility for the damage shows integrity.",
+        "topic_tag": "integrity",
+        "type": "dilemma"
+    },
+    {
+        "scenario_description": "You have an extra ticket to a fun event, but you can only invite one friend. What do you do?",
+        "options": [
+            "A. Invite your closest friend.",
+            "B. Invite someone who doesnt usually get to go to such events.",
+            "C. Dont invite anyone and keep the extra ticket for yourself."
+        ],
+        "correct_answer": "B",
+        "explanation": "Including others, especially those who might feel left out, is a kind and thoughtful act.",
+        "topic_tag": "inclusion",
+        "type": "dilemma"
+    },
+    {
+        "scenario_description": "Your sibling takes something from your room without asking. What do you do?",
+        "options": [
+            "A. Get angry and take something from their room.",
+            "B. Talk to them calmly and explain why its important to ask first.",
+            "C. Ignore it and let them keep it."
+        ],
+        "correct_answer": "B",
+        "explanation": "Communicating your feelings calmly helps resolve conflicts peacefully.",
+        "topic_tag": "communication",
+        "type": "dilemma"
+    },
+    {
+        "scenario_description": "You see a friend copying someone else's homework. What do you do?",
+        "options": [
+            "A. Tell the teacher immediately.",
+            "B. Talk to your friend and encourage them to do their own work.",
+            "C. Ignore it because its not your problem."
+        ],
+        "correct_answer": "B",
+        "explanation": "Encouraging honesty and hard work helps your friend grow and learn.",
+        "topic_tag": "honesty",
+        "type": "dilemma"
+    },
+    {
+        "scenario_description": "You see trash on the playground, but it's not yours. What do you do?",
+        "options": [
+            "A. Pick it up and throw it away.",
+            "B. Ignore it because its not your responsibility.",
+            "C. Tell someone else to pick it up."
+        ],
+        "correct_answer": "A",
+        "explanation": "Taking care of your environment is everyones responsibility, even if the trash isnt yours.",
+        "topic_tag": "responsibility",
+        "type": "dilemma"
+    },
+    {
+        "scenario_description": "Your team loses an important game, and your teammates are upset. What do you do?",
+        "options": [
+            "A. Blame the loss on someone else.",
+            "B. Encourage your teammates and remind them its just a game.",
+            "C. Walk away and avoid the situation."
+        ],
+        "correct_answer": "B",
+        "explanation": "Encouragement and good sportsmanship help everyone feel better after a loss.",
+        "topic_tag": "sportsmanship",
+        "type": "dilemma"
+    },
+    {
+        "scenario_description": "Youre at a party, and a game is being played that you don't like. What do you do?",
+        "options": [
+            "A. Refuse to play and leave the party.",
+            "B. Suggest a different game that everyone might enjoy.",
+            "C. Play along even though you dont like it."
+        ],
+        "correct_answer": "B",
+        "explanation": "Suggesting a new game can make everyone happy and ensure that everyone has fun.",
+        "topic_tag": "inclusion",
+        "type": "dilemma"
+    },
+    {
+        "scenario_description": "Your friend tells you a secret, but its really exciting news. What do you do?",
+        "options": [
+            "A. Tell the secret because it's exciting.",
+            "B. Keep the secret as your friend asked.",
+            "C. Ask your friend if you can share the news with others."
+        ],
+        "correct_answer": "B",
+        "explanation": "Keeping a friends secret builds trust and shows youre trustworthy.",
+        "topic_tag": "trust",
+        "type": "dilemma"
+    },
+    {
+        "scenario_description": "You see a child fall down and hurt themselves. What do you do?",
+        "options": [
+            "A. Help them up and see if theyre okay.",
+            "B. Laugh because it was funny.",
+            "C. Walk away because its not your problem."
+        ],
+        "correct_answer": "A",
+        "explanation": "Helping someone in need is a kind and caring act.",
+        "topic_tag": "kindness",
+        "type": "dilemma"
+    },
+    {
+        "scenario_description": "Your friend wants to play a game, but you want to play something else. What do you do?",
+        "options": [
+            "A. Insist on playing your game.",
+            "B. Take turns playing both games.",
+            "C. Refuse to play anything."
+        ],
+        "correct_answer": "B",
+        "explanation": "Compromise is important in maintaining friendships and making sure everyone has fun.",
+        "topic_tag": "compromise",
+        "type": "dilemma"
+    },
+    {
+        "scenario_description": "Youre building a tower, and another child accidentally knocks it over. What do you do?",
+        "options": [
+            "A. Get angry and knock over something they built.",
+            "B. Calmly rebuild the tower and explain why it upset you.",
+            "C. Stop building and leave."
+        ],
+        "correct_answer": "B",
+        "explanation": "Responding calmly to accidents helps avoid unnecessary conflict and teaches understanding.",
+        "topic_tag": "patience",
+        "type": "dilemma"
+    },
+    {
+        "scenario_description": "You find out a friend is being left out by others. What do you do?",
+        "options": [
+            "A. Include your friend in your activities.",
+            "B. Ignore it because its not your problem.",
+            "C. Join the others and leave your friend out too."
+        ],
+        "correct_answer": "A",
+        "explanation": "Including others and making them feel welcome is an important part of friendship.",
+        "topic_tag": "inclusion",
+        "type": "dilemma"
+    }
+]

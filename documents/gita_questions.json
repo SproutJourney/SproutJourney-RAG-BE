@@ -1,0 +1,1388 @@
+[
+    {
+        "question": "Arjuna was confused about fighting his family. Should he follow his feelings or his duty?",
+        "options": [
+            "Follow his feelings",
+            "Follow his duty",
+            "Run away",
+            "Give up"
+        ],
+        "answer": "Follow his duty",
+        "chapter": "Chapter 1",
+        "keywords": [
+            "Arjuna",
+            "duty",
+            "family",
+            "feelings"
+        ],
+        "type": "questionswithoptionsgita"
+    },
+    {
+        "question": "If you had to choose between helping a friend cheat in an exam or telling the truth, what would you do?",
+        "options": [
+            "Help the friend",
+            "Tell the teacher",
+            "Ignore the situation",
+            "Give advice to study"
+        ],
+        "answer": "Give advice to study",
+        "chapter": "Chapter 1",
+        "keywords": [
+            "truth",
+            "friend",
+            "cheating",
+            "ethics"
+        ],
+        "type": "questionswithoptionsgita"
+    },
+    {
+        "question": "What is more important: duty or personal feelings?",
+        "options": [
+            "Duty",
+            "Personal feelings",
+            "It depends",
+            "Neither"
+        ],
+        "answer": "Duty",
+        "chapter": "Chapter 1",
+        "keywords": [
+            "duty",
+            "feelings",
+            "choice",
+            "decision"
+        ],
+        "type": "questionswithoptionsgita"
+    },
+    {
+        "question": "If telling the truth would hurt someones feelings, what would be the best choice?",
+        "options": [
+            "Tell the truth and hurt them",
+            "Tell a lie to protect them",
+            "Speak kindly but honestly",
+            "Stay quiet"
+        ],
+        "answer": "Speak kindly but honestly",
+        "chapter": "Chapter 1",
+        "keywords": [
+            "truth",
+            "feelings",
+            "honesty",
+            "hurt"
+        ],
+        "type": "questionswithoptionsgita"
+    },
+    {
+        "question": "When Arjuna saw his family on the battlefield, he felt sad. What should he do?",
+        "options": [
+            "Refuse to fight",
+            "Do his duty",
+            "Run away",
+            "Ask for peace"
+        ],
+        "answer": "Do his duty",
+        "chapter": "Chapter 1",
+        "keywords": [
+            "family",
+            "sadness",
+            "duty",
+            "war"
+        ],
+        "type": "questionswithoptionsgita"
+    },
+    {
+        "question": "Why did Arjuna feel so conflicted about fighting in the war?",
+        "options": [
+            "He didnt like fighting",
+            "He didnt want to hurt his family",
+            "He was afraid of losing",
+            "He wanted peace"
+        ],
+        "answer": "He didnt want to hurt his family",
+        "chapter": "Chapter 1",
+        "keywords": [
+            "Arjuna",
+            "conflict",
+            "family",
+            "war"
+        ],
+        "type": "questionswithoptionsgita"
+    },
+    {
+        "question": "Arjuna didnt want to fight because he didnt want to harm his loved ones. What is more important: duty or love?",
+        "options": [
+            "Duty",
+            "Love",
+            "Neither",
+            "Both are important"
+        ],
+        "answer": "Both are important",
+        "chapter": "Chapter 1",
+        "keywords": [
+            "duty",
+            "love",
+            "family",
+            "war"
+        ],
+        "type": "questionswithoptionsgita"
+    },
+    {
+        "question": "If you see someone being unkind, should you ignore it or try to help?",
+        "options": [
+            "Ignore it",
+            "Try to help",
+            "Join in",
+            "Walk away"
+        ],
+        "answer": "Try to help",
+        "chapter": "Chapter 2",
+        "keywords": [
+            "kindness",
+            "help",
+            "unfair",
+            "action"
+        ],
+        "type": "questionswithoptionsgita"
+    },
+    {
+        "question": "Krishna tells Arjuna to do his duty without worrying about success or failure. What can this teach us?",
+        "options": [
+            "Only success matters",
+            "Do your best without worrying about results",
+            "Failure is bad",
+            "Give up if it's hard"
+        ],
+        "answer": "Do your best without worrying about results",
+        "chapter": "Chapter 2",
+        "keywords": [
+            "effort",
+            "duty",
+            "result",
+            "focus"
+        ],
+        "type": "questionswithoptionsgita"
+    },
+    {
+        "question": "Krishna tells Arjuna that our soul never dies, only our body does. How does this idea change the way we think about death?",
+        "options": [
+            "We should fear death",
+            "We should be brave and accept it",
+            "We should ignore it",
+            "Its not important"
+        ],
+        "answer": "We should be brave and accept it",
+        "chapter": "Chapter 2",
+        "keywords": [
+            "soul",
+            "death",
+            "bravery",
+            "life"
+        ],
+        "type": "questionswithoptionsgita"
+    },
+    {
+        "question": "What lesson does Arjuna learn about doing the right thing, even when its hard?",
+        "options": [
+            "Doing the right thing is always easy",
+            "Doing the right thing is hard but important",
+            "Ignore hard choices",
+            "Run away from problems"
+        ],
+        "answer": "Doing the right thing is hard but important",
+        "chapter": "Chapter 2",
+        "keywords": [
+            "right",
+            "choices",
+            "hard",
+            "important"
+        ],
+        "type": "questionswithoptionsgita"
+    },
+    {
+        "question": "Krishna teaches that doing your best without worrying about winning is important. How does this help in school or sports?",
+        "options": [
+            "Winning is the only goal",
+            "Doing your best helps you improve",
+            "Ignore your effort",
+            "Stop trying if its hard"
+        ],
+        "answer": "Doing your best helps you improve",
+        "chapter": "Chapter 2",
+        "keywords": [
+            "effort",
+            "improvement",
+            "school",
+            "sports"
+        ],
+        "type": "questionswithoptionsgita"
+    },
+    {
+        "question": "If you are feeling angry at a friend, what should you do before reacting?",
+        "options": [
+            "React angrily",
+            "Take time to calm down",
+            "Ignore them",
+            "Say something mean"
+        ],
+        "answer": "Take time to calm down",
+        "chapter": "Chapter 2",
+        "keywords": [
+            "anger",
+            "calm",
+            "friend",
+            "reaction"
+        ],
+        "type": "questionswithoptionsgita"
+    },
+    {
+        "question": "If a friend asks you to do something wrong, how should you respond?",
+        "options": [
+            "Do what they ask",
+            "Say no and explain why",
+            "Stay quiet",
+            "Join them anyway"
+        ],
+        "answer": "Say no and explain why",
+        "chapter": "Chapter 2",
+        "keywords": [
+            "friend",
+            "wrong",
+            "choices",
+            "explain"
+        ],
+        "type": "questionswithoptionsgita"
+    },
+    {
+        "question": "Why is it important to think before making a choice that affects others?",
+        "options": [
+            "Choices dont matter",
+            "Because our choices can help or hurt others",
+            "We should always act fast",
+            "Thinking slows us down"
+        ],
+        "answer": "Because our choices can help or hurt others",
+        "chapter": "Chapter 3",
+        "keywords": [
+            "choices",
+            "thinking",
+            "affect",
+            "others"
+        ],
+        "type": "questionswithoptionsgita"
+    },
+    {
+        "question": "Krishna teaches that desires can lead to anger and sorrow. What can we learn from this?",
+        "options": [
+            "We should always follow our desires",
+            "We should control our desires",
+            "Desires are harmless",
+            "Ignore desires altogether"
+        ],
+        "answer": "We should control our desires",
+        "chapter": "Chapter 3",
+        "keywords": [
+            "desires",
+            "anger",
+            "control",
+            "sorrow"
+        ],
+        "type": "questionswithoptionsgita"
+    },
+    {
+        "question": "Krishna says that it is better to do your own work, even if imperfect, than to do someone else's work perfectly. Why is this important?",
+        "options": [
+            "Because doing someone else's work is bad",
+            "Because we learn from our mistakes",
+            "Perfection is the only goal",
+            "We shouldnt help others"
+        ],
+        "answer": "Because we learn from our mistakes",
+        "chapter": "Chapter 3",
+        "keywords": [
+            "work",
+            "mistakes",
+            "learning",
+            "perfection"
+        ],
+        "type": "questionswithoptionsgita"
+    },
+    {
+        "question": "Krishna tells Arjuna that knowledge is the greatest power. What should we value more: knowledge or wealth?",
+        "options": [
+            "Knowledge",
+            "Wealth",
+            "Both equally",
+            "Neither"
+        ],
+        "answer": "Knowledge",
+        "chapter": "Chapter 4",
+        "keywords": [
+            "knowledge",
+            "wealth",
+            "value",
+            "power"
+        ],
+        "type": "questionswithoptionsgita"
+    },
+    {
+        "question": "Krishna teaches that helping others without expecting anything in return is the highest form of service. Why is selfless action important?",
+        "options": [
+            "It makes us happy",
+            "It helps us focus",
+            "It benefits others without selfishness",
+            "It brings rewards"
+        ],
+        "answer": "It benefits others without selfishness",
+        "chapter": "Chapter 4",
+        "keywords": [
+            "selfless",
+            "action",
+            "helping",
+            "others"
+        ],
+        "type": "questionswithoptionsgita"
+    },
+    {
+        "question": "If you see someone in need, should you help them even if you dont get anything in return?",
+        "options": [
+            "Yes, always",
+            "No, only if I get something",
+            "It depends",
+            "Wait for someone else to help"
+        ],
+        "answer": "Yes, always",
+        "chapter": "Chapter 4",
+        "keywords": [
+            "help",
+            "selflessness",
+            "others",
+            "action"
+        ],
+        "type": "questionswithoptionsgita"
+    },
+    {
+        "question": "Krishna teaches that even the smallest good deed can make a difference. How can small actions change the world?",
+        "options": [
+            "Small actions dont matter",
+            "They inspire others",
+            "Only big actions make change",
+            "We should wait for big opportunities"
+        ],
+        "answer": "They inspire others",
+        "chapter": "Chapter 4",
+        "keywords": [
+            "actions",
+            "good deeds",
+            "small",
+            "difference"
+        ],
+        "type": "questionswithoptionsgita"
+    },
+    {
+        "question": "Krishna says that true knowledge comes from understanding yourself. Why is it important to know ourselves before helping others?",
+        "options": [
+            "So we can understand others better",
+            "Because it's easier",
+            "It's not important",
+            "Others dont matter"
+        ],
+        "answer": "So we can understand others better",
+        "chapter": "Chapter 4",
+        "keywords": [
+            "knowledge",
+            "self",
+            "understanding",
+            "help"
+        ],
+        "type": "questionswithoptionsgita"
+    },
+    {
+        "question": "Krishna explains that everyone has their own role in life. Should we compare our work with others?",
+        "options": [
+            "Yes, to be better than others",
+            "No, everyones role is different",
+            "Sometimes",
+            "We should always compare"
+        ],
+        "answer": "No, everyones role is different",
+        "chapter": "Chapter 5",
+        "keywords": [
+            "role",
+            "life",
+            "work",
+            "comparison"
+        ],
+        "type": "questionswithoptionsgita"
+    },
+    {
+        "question": "Why is it wrong to be jealous of others' success, as Krishna explains to Arjuna?",
+        "options": [
+            "Because jealousy hurts us",
+            "Because we should only care about ourselves",
+            "Jealousy is good",
+            "We should be competitive"
+        ],
+        "answer": "Because jealousy hurts us",
+        "chapter": "Chapter 5",
+        "keywords": [
+            "jealousy",
+            "success",
+            "hurt",
+            "emotions"
+        ],
+        "type": "questionswithoptionsgita"
+    },
+    {
+        "question": "Krishna teaches that peace comes from giving up anger and desire. What can we do to feel more peaceful?",
+        "options": [
+            "Hold onto anger",
+            "Let go of desires and anger",
+            "Always get what we want",
+            "Ignore others"
+        ],
+        "answer": "Let go of desires and anger",
+        "chapter": "Chapter 5",
+        "keywords": [
+            "peace",
+            "anger",
+            "desire",
+            "let go"
+        ],
+        "type": "questionswithoptionsgita"
+    },
+    {
+        "question": "Krishna teaches about balancing work and rest. Why is it important to take breaks while working?",
+        "options": [
+            "So we dont get tired",
+            "Because we should be lazy",
+            "Breaks arent important",
+            "Because it makes us work better"
+        ],
+        "answer": "Because it makes us work better",
+        "chapter": "Chapter 6",
+        "keywords": [
+            "balance",
+            "work",
+            "rest",
+            "breaks"
+        ],
+        "type": "questionswithoptionsgita"
+    },
+    {
+        "question": "Krishna teaches that meditation helps us find inner peace. How can meditation make us feel calm?",
+        "options": [
+            "It makes us ignore problems",
+            "It helps us focus and relax",
+            "It fixes all problems",
+            "It distracts us"
+        ],
+        "answer": "It helps us focus and relax",
+        "chapter": "Chapter 6",
+        "keywords": [
+            "meditation",
+            "calm",
+            "focus",
+            "relax"
+        ],
+        "type": "questionswithoptionsgita"
+    },
+    {
+        "question": "Krishna tells Arjuna that practice makes us better at anything. What should we do if we fail at something?",
+        "options": [
+            "Give up",
+            "Try again with practice",
+            "Ignore it",
+            "Wait for someone to help"
+        ],
+        "answer": "Try again with practice",
+        "chapter": "Chapter 6",
+        "keywords": [
+            "practice",
+            "failure",
+            "try again",
+            "learning"
+        ],
+        "type": "questionswithoptionsgita"
+    },
+    {
+        "question": "Krishna explains that we should help others, but also take care of ourselves. Why is it important to take care of ourselves while helping others?",
+        "options": [
+            "Because others dont matter",
+            "We cant help if we arent healthy",
+            "Helping others is more important",
+            "We should ignore ourselves"
+        ],
+        "answer": "We cant help if we arent healthy",
+        "chapter": "Chapter 6",
+        "keywords": [
+            "self-care",
+            "help",
+            "others",
+            "balance"
+        ],
+        "type": "questionswithoptionsgita"
+    },
+    {
+        "question": "Krishna teaches that everyone is connected. How does helping others help us in return?",
+        "options": [
+            "It doesnt",
+            "It creates a positive circle",
+            "It makes others owe us",
+            "Its just a waste of time"
+        ],
+        "answer": "It creates a positive circle",
+        "chapter": "Chapter 6",
+        "keywords": [
+            "help",
+            "connection",
+            "circle",
+            "others"
+        ],
+        "type": "questionswithoptionsgita"
+    },
+    {
+        "question": "Why does Krishna say that focusing on yourself alone can lead to unhappiness?",
+        "options": [
+            "Because it leads to selfishness",
+            "Because happiness comes from sharing",
+            "Focusing on yourself is good",
+            "It makes you stronger"
+        ],
+        "answer": "Because happiness comes from sharing",
+        "chapter": "Chapter 6",
+        "keywords": [
+            "selfishness",
+            "happiness",
+            "sharing",
+            "focus"
+        ],
+        "type": "questionswithoptionsgita"
+    },
+    {
+        "question": "Krishna teaches Arjuna that even small efforts toward helping others are valuable. Why should we appreciate even the little things we do?",
+        "options": [
+            "Little things dont matter",
+            "Small efforts lead to big changes",
+            "We should wait for big opportunities",
+            "Others dont notice"
+        ],
+        "answer": "Small efforts lead to big changes",
+        "chapter": "Chapter 6",
+        "keywords": [
+            "effort",
+            "small",
+            "change",
+            "help"
+        ],
+        "type": "questionswithoptionsgita"
+    },
+    {
+        "question": "Krishna teaches that everything in the universe is connected. How should we treat nature and animals, knowing this?",
+        "options": [
+            "Respect and care for them",
+            "Ignore them",
+            "Use them however we want",
+            "Only care for humans"
+        ],
+        "answer": "Respect and care for them",
+        "chapter": "Chapter 7",
+        "keywords": [
+            "nature",
+            "animals",
+            "respect",
+            "connection"
+        ],
+        "type": "questionswithoptionsgita"
+    },
+    {
+        "question": "Krishna says that people can worship in different ways, but all paths lead to the same truth. What does this teach us about respecting others' beliefs?",
+        "options": [
+            "Only one belief is right",
+            "Everyone's beliefs deserve respect",
+            "We should ignore other beliefs",
+            "Only our beliefs matter"
+        ],
+        "answer": "Everyone's beliefs deserve respect",
+        "chapter": "Chapter 7",
+        "keywords": [
+            "beliefs",
+            "respect",
+            "truth",
+            "worship"
+        ],
+        "type": "questionswithoptionsgita"
+    },
+    {
+        "question": "Krishna explains that people act out of desire for rewards. Why is it important to do good deeds without expecting rewards?",
+        "options": [
+            "Because rewards arent important",
+            "It helps us act selflessly",
+            "We should always expect rewards",
+            "Only rewards matter"
+        ],
+        "answer": "It helps us act selflessly",
+        "chapter": "Chapter 7",
+        "keywords": [
+            "good deeds",
+            "rewards",
+            "selflessness",
+            "actions"
+        ],
+        "type": "questionswithoptionsgita"
+    },
+    {
+        "question": "Krishna says that knowledge is better than blind faith. Why is it important to ask questions and understand before believing something?",
+        "options": [
+            "Because questions are bad",
+            "Because knowledge helps us grow",
+            "Faith is more important than understanding",
+            "We should never ask questions"
+        ],
+        "answer": "Because knowledge helps us grow",
+        "chapter": "Chapter 7",
+        "keywords": [
+            "knowledge",
+            "faith",
+            "questions",
+            "understanding"
+        ],
+        "type": "questionswithoptionsgita"
+    },
+    {
+        "question": "Krishna tells Arjuna that devotion and love are the easiest paths to him. Why is love such a powerful way to connect with others?",
+        "options": [
+            "Love makes us weak",
+            "Love helps us understand and care for others",
+            "Love is only for family",
+            "Love doesnt matter"
+        ],
+        "answer": "Love helps us understand and care for others",
+        "chapter": "Chapter 8",
+        "keywords": [
+            "love",
+            "connection",
+            "care",
+            "devotion"
+        ],
+        "type": "questionswithoptionsgita"
+    },
+    {
+        "question": "Krishna says that everything we do should be dedicated to something greater. How can we dedicate our actions to a good cause?",
+        "options": [
+            "By acting selfishly",
+            "By thinking of how our actions help others",
+            "By focusing only on rewards",
+            "By ignoring others"
+        ],
+        "answer": "By thinking of how our actions help others",
+        "chapter": "Chapter 8",
+        "keywords": [
+            "actions",
+            "dedication",
+            "greater cause",
+            "help"
+        ],
+        "type": "questionswithoptionsgita"
+    },
+    {
+        "question": "Krishna explains that time is eternal and always moving. Why should we make the best use of our time?",
+        "options": [
+            "Because time never stops",
+            "Because time doesnt matter",
+            "We should waste time",
+            "Only big moments matter"
+        ],
+        "answer": "Because time never stops",
+        "chapter": "Chapter 8",
+        "keywords": [
+            "time",
+            "eternal",
+            "use",
+            "moments"
+        ],
+        "type": "questionswithoptionsgita"
+    },
+    {
+        "question": "Krishna teaches that being calm and patient is a great strength. Why is patience important when facing challenges?",
+        "options": [
+            "It helps us stay calm and think clearly",
+            "It makes us slow",
+            "Patience is not needed",
+            "Challenges should be avoided"
+        ],
+        "answer": "It helps us stay calm and think clearly",
+        "chapter": "Chapter 8",
+        "keywords": [
+            "patience",
+            "calm",
+            "challenges",
+            "strength"
+        ],
+        "type": "questionswithoptionsgita"
+    },
+    {
+        "question": "Krishna says that the way we think at the end of our life shapes our future. What does this teach us about our thoughts and actions?",
+        "options": [
+            "Only actions matter",
+            "Both thoughts and actions shape who we are",
+            "Our thoughts are not important",
+            "The future doesnt matter"
+        ],
+        "answer": "Both thoughts and actions shape who we are",
+        "chapter": "Chapter 8",
+        "keywords": [
+            "thoughts",
+            "actions",
+            "future",
+            "shape"
+        ],
+        "type": "questionswithoptionsgita"
+    },
+    {
+        "question": "Krishna says that people can choose the right path or the wrong path, but both teach us something. How can mistakes help us grow?",
+        "options": [
+            "Mistakes make us weak",
+            "Mistakes teach us important lessons",
+            "Mistakes are bad",
+            "We should never make mistakes"
+        ],
+        "answer": "Mistakes teach us important lessons",
+        "chapter": "Chapter 9",
+        "keywords": [
+            "mistakes",
+            "growth",
+            "lessons",
+            "learning"
+        ],
+        "type": "questionswithoptionsgita"
+    },
+    {
+        "question": "Krishna explains that everyone has goodness within them. How can we find the good in others, even if they do something wrong?",
+        "options": [
+            "Ignore their mistakes",
+            "Look for the good they have done",
+            "Only focus on their mistakes",
+            "Judge them quickly"
+        ],
+        "answer": "Look for the good they have done",
+        "chapter": "Chapter 9",
+        "keywords": [
+            "goodness",
+            "others",
+            "mistakes",
+            "judgment"
+        ],
+        "type": "questionswithoptionsgita"
+    },
+    {
+        "question": "Krishna teaches that those who serve others with love are closest to him. Why is it important to serve others with kindness?",
+        "options": [
+            "Kindness is weak",
+            "It helps us connect with others and spread love",
+            "Serving others is a waste of time",
+            "Only think about yourself"
+        ],
+        "answer": "It helps us connect with others and spread love",
+        "chapter": "Chapter 9",
+        "keywords": [
+            "kindness",
+            "service",
+            "connection",
+            "love"
+        ],
+        "type": "questionswithoptionsgita"
+    },
+    {
+        "question": "Krishna says that he treats everyone equally, no matter their background. What does this teach us about equality and fairness?",
+        "options": [
+            "We should treat everyone the same",
+            "Some people deserve more",
+            "Equality doesnt matter",
+            "Fairness is not important"
+        ],
+        "answer": "We should treat everyone the same",
+        "chapter": "Chapter 9",
+        "keywords": [
+            "equality",
+            "fairness",
+            "treating others",
+            "same"
+        ],
+        "type": "questionswithoptionsgita"
+    },
+    {
+        "question": "Krishna explains that devotion comes in many forms. How can we show our devotion to good values in everyday life?",
+        "options": [
+            "By being honest, kind, and helping others",
+            "By focusing only on rewards",
+            "Devotion is only for gods",
+            "By ignoring others"
+        ],
+        "answer": "By being honest, kind, and helping others",
+        "chapter": "Chapter 9",
+        "keywords": [
+            "devotion",
+            "values",
+            "honesty",
+            "kindness"
+        ],
+        "type": "questionswithoptionsgita"
+    },
+    {
+        "question": "Krishna says that those who are wise see the same soul in everyone. How can we practice seeing everyone as equals?",
+        "options": [
+            "By treating others differently",
+            "By looking for the good in all people",
+            "By focusing on their mistakes",
+            "By avoiding others"
+        ],
+        "answer": "By looking for the good in all people",
+        "chapter": "Chapter 9",
+        "keywords": [
+            "equality",
+            "soul",
+            "goodness",
+            "wisdom"
+        ],
+        "type": "questionswithoptionsgita"
+    },
+    {
+        "question": "Krishna explains that he is the source of all strength, wisdom, and goodness. How can we find strength in difficult times?",
+        "options": [
+            "By staying calm and focused",
+            "By giving up",
+            "By avoiding challenges",
+            "By blaming others"
+        ],
+        "answer": "By staying calm and focused",
+        "chapter": "Chapter 10",
+        "keywords": [
+            "strength",
+            "wisdom",
+            "goodness",
+            "challenges"
+        ],
+        "type": "questionswithoptionsgita"
+    },
+    {
+        "question": "Krishna says that wise people see his presence in everything around them. How can we show respect for everything in the world?",
+        "options": [
+            "By treating nature and people with care",
+            "By ignoring everything",
+            "By only caring about ourselves",
+            "By using things for our own benefit"
+        ],
+        "answer": "By treating nature and people with care",
+        "chapter": "Chapter 10",
+        "keywords": [
+            "respect",
+            "world",
+            "nature",
+            "people"
+        ],
+        "type": "questionswithoptionsgita"
+    },
+    {
+        "question": "Krishna explains that some people are more interested in knowledge than others. Should we look down on those who dont know as much as we do?",
+        "options": [
+            "Yes, because knowledge is most important",
+            "No, because everyone learns at their own pace",
+            "Ignore those people",
+            "We should only focus on ourselves"
+        ],
+        "answer": "No, because everyone learns at their own pace",
+        "chapter": "Chapter 10",
+        "keywords": [
+            "knowledge",
+            "learning",
+            "respect",
+            "pace"
+        ],
+        "type": "questionswithoptionsgita"
+    },
+    {
+        "question": "Krishna says that true greatness comes from being humble. How can we practice humility in everyday life?",
+        "options": [
+            "By showing off our achievements",
+            "By helping others quietly without seeking praise",
+            "By boasting about our skills",
+            "By ignoring others' needs"
+        ],
+        "answer": "By helping others quietly without seeking praise",
+        "chapter": "Chapter 10",
+        "keywords": [
+            "humility",
+            "greatness",
+            "helping others",
+            "quiet"
+        ],
+        "type": "questionswithoptionsgita"
+    },
+    {
+        "question": "Krishna shows his universal form to Arjuna, revealing that everything is part of the same whole. How does this vision teach us about unity?",
+        "options": [
+            "Everything is separate",
+            "We are all connected as one",
+            "Only certain things are important",
+            "Unity doesnt matter"
+        ],
+        "answer": "We are all connected as one",
+        "chapter": "Chapter 11",
+        "keywords": [
+            "unity",
+            "connection",
+            "universal",
+            "whole"
+        ],
+        "type": "questionswithoptionsgita"
+    },
+    {
+        "question": "Arjuna felt overwhelmed when he saw Krishnas universal form. How can we handle situations when we feel overwhelmed by life?",
+        "options": [
+            "Give up",
+            "Take a moment to pause and understand",
+            "Avoid the situation",
+            "Blame others"
+        ],
+        "answer": "Take a moment to pause and understand",
+        "chapter": "Chapter 11",
+        "keywords": [
+            "overwhelmed",
+            "pause",
+            "understand",
+            "life"
+        ],
+        "type": "questionswithoptionsgita"
+    },
+    {
+        "question": "Krishna explains that he controls both creation and destruction. How should we react when things in life don't go as planned?",
+        "options": [
+            "Get angry",
+            "Accept that change is part of life",
+            "Give up",
+            "Blame others"
+        ],
+        "answer": "Accept that change is part of life",
+        "chapter": "Chapter 11",
+        "keywords": [
+            "change",
+            "creation",
+            "destruction",
+            "acceptance"
+        ],
+        "type": "questionswithoptionsgita"
+    },
+    {
+        "question": "Krishna shows Arjuna that both good and bad things are part of the universe. How can we learn to accept both in life?",
+        "options": [
+            "Only accept the good",
+            "Understand that both are necessary for growth",
+            "Complain about the bad",
+            "Ignore the bad"
+        ],
+        "answer": "Understand that both are necessary for growth",
+        "chapter": "Chapter 11",
+        "keywords": [
+            "good",
+            "bad",
+            "acceptance",
+            "growth"
+        ],
+        "type": "questionswithoptionsgita"
+    },
+    {
+        "question": "Arjuna was scared when he saw the vastness of Krishna's universal form. How can we face our fears in life?",
+        "options": [
+            "Run away from fears",
+            "Face them with courage and understanding",
+            "Ignore them",
+            "Let them control us"
+        ],
+        "answer": "Face them with courage and understanding",
+        "chapter": "Chapter 11",
+        "keywords": [
+            "fears",
+            "courage",
+            "understanding",
+            "face"
+        ],
+        "type": "questionswithoptionsgita"
+    },
+    {
+        "question": "Krishna explains that devotion is one of the most important ways to connect with him. How can we show devotion in our daily actions?",
+        "options": [
+            "By being kind and selfless",
+            "By expecting rewards for our actions",
+            "By only thinking of ourselves",
+            "By ignoring others"
+        ],
+        "answer": "By being kind and selfless",
+        "chapter": "Chapter 12",
+        "keywords": [
+            "devotion",
+            "daily actions",
+            "kindness",
+            "selflessness"
+        ],
+        "type": "questionswithoptionsgita"
+    },
+    {
+        "question": "Krishna says that those who love without expecting anything in return are closest to him. Why is selfless love important?",
+        "options": [
+            "It makes us happy",
+            "It helps us connect with others",
+            "It brings rewards",
+            "It shows weakness"
+        ],
+        "answer": "It helps us connect with others",
+        "chapter": "Chapter 12",
+        "keywords": [
+            "selfless love",
+            "connection",
+            "others",
+            "importance"
+        ],
+        "type": "questionswithoptionsgita"
+    },
+    {
+        "question": "Krishna teaches that patience and calmness are important qualities in a devoted person. How can we practice patience in difficult times?",
+        "options": [
+            "By staying calm and thinking clearly",
+            "By reacting with anger",
+            "By ignoring the situation",
+            "By giving up"
+        ],
+        "answer": "By staying calm and thinking clearly",
+        "chapter": "Chapter 12",
+        "keywords": [
+            "patience",
+            "calmness",
+            "difficult times",
+            "qualities"
+        ],
+        "type": "questionswithoptionsgita"
+    },
+    {
+        "question": "Krishna says that those who do their work without selfishness are dear to him. How can we do our work selflessly?",
+        "options": [
+            "By expecting rewards",
+            "By focusing on how it helps others",
+            "By ignoring others",
+            "By doing only what we like"
+        ],
+        "answer": "By focusing on how it helps others",
+        "chapter": "Chapter 12",
+        "keywords": [
+            "selfless work",
+            "helping others",
+            "focus",
+            "importance"
+        ],
+        "type": "questionswithoptionsgita"
+    },
+    {
+        "question": "Krishna explains that those who see joy and sorrow equally are wise. How can we balance both happiness and sadness in life?",
+        "options": [
+            "By focusing only on happiness",
+            "By understanding both are part of life",
+            "By avoiding sadness",
+            "By only caring about joy"
+        ],
+        "answer": "By understanding both are part of life",
+        "chapter": "Chapter 12",
+        "keywords": [
+            "joy",
+            "sorrow",
+            "balance",
+            "life"
+        ],
+        "type": "questionswithoptionsgita"
+    },
+    {
+        "question": "Krishna teaches that a devoted person is free from envy. Why is it important to avoid feeling jealous of others?",
+        "options": [
+            "Jealousy is natural",
+            "Jealousy creates unhappiness",
+            "Jealousy motivates us",
+            "We should always compare ourselves to others"
+        ],
+        "answer": "Jealousy creates unhappiness",
+        "chapter": "Chapter 12",
+        "keywords": [
+            "jealousy",
+            "envy",
+            "unhappiness",
+            "comparison"
+        ],
+        "type": "questionswithoptionsgita"
+    },
+    {
+        "question": "What should you do if you see a friend making a bad choice?",
+        "options": [
+            "Help them understand",
+            "Ignore it",
+            "Join them",
+            "Make fun of them"
+        ],
+        "answer": "Help them understand",
+        "chapter": "Chapter agnostic",
+        "keywords": [
+            "friend",
+            "choice",
+            "help",
+            "understand"
+        ],
+        "type": "questionswithoptionsgita"
+    },
+    {
+        "question": "Is it better to always tell the truth, even if it might hurt someone's feelings?",
+        "options": [
+            "Yes, truth is always best",
+            "No, sometimes kindness is better",
+            "Only lie if needed",
+            "Never tell the truth"
+        ],
+        "answer": "No, sometimes kindness is better",
+        "chapter": "Chapter agnostic",
+        "keywords": [
+            "truth",
+            "kindness",
+            "feelings",
+            "ethics"
+        ],
+        "type": "questionswithoptionsgita"
+    },
+    {
+        "question": "If you fail at something, what is the best way to respond?",
+        "options": [
+            "Give up",
+            "Try again with practice",
+            "Blame others",
+            "Ignore it"
+        ],
+        "answer": "Try again with practice",
+        "chapter": "Chapter agnostic",
+        "keywords": [
+            "failure",
+            "practice",
+            "response",
+            "learning"
+        ],
+        "type": "questionswithoptionsgita"
+    },
+    {
+        "question": "How should we act when someone is unkind to us?",
+        "options": [
+            "Be unkind back",
+            "Stay calm and be kind",
+            "Ignore them",
+            "Tell them off"
+        ],
+        "answer": "Stay calm and be kind",
+        "chapter": "Chapter agnostic",
+        "keywords": [
+            "unkind",
+            "kindness",
+            "response",
+            "calm"
+        ],
+        "type": "questionswithoptionsgita"
+    },
+    {
+        "question": "What is the importance of doing good deeds without expecting rewards?",
+        "options": [
+            "Good deeds are about rewards",
+            "Selfless actions are more meaningful",
+            "Rewards are always needed",
+            "Only big actions matter"
+        ],
+        "answer": "Selfless actions are more meaningful",
+        "chapter": "Chapter agnostic",
+        "keywords": [
+            "good deeds",
+            "rewards",
+            "selflessness",
+            "actions"
+        ],
+        "type": "questionswithoptionsgita"
+    },
+    {
+        "question": "Why should we respect people who have different beliefs than us?",
+        "options": [
+            "Because their beliefs are wrong",
+            "Everyone deserves respect",
+            "We should convince them to change",
+            "Only our beliefs are right"
+        ],
+        "answer": "Everyone deserves respect",
+        "chapter": "Chapter agnostic",
+        "keywords": [
+            "beliefs",
+            "respect",
+            "differences",
+            "equality"
+        ],
+        "type": "questionswithoptionsgita"
+    },
+    {
+        "question": "How can patience help us in difficult situations?",
+        "options": [
+            "Patience makes us weak",
+            "It helps us stay calm and think clearly",
+            "Patience wastes time",
+            "We should rush to solve problems"
+        ],
+        "answer": "It helps us stay calm and think clearly",
+        "chapter": "Chapter agnostic",
+        "keywords": [
+            "patience",
+            "difficult situations",
+            "calm",
+            "thinking"
+        ],
+        "type": "questionswithoptionsgita"
+    },
+    {
+        "question": "Why is it important to help others even when no one is watching?",
+        "options": [
+            "Because it brings rewards",
+            "Because it shows true kindness",
+            "Only help if someone sees",
+            "Helping doesnt matter"
+        ],
+        "answer": "Because it shows true kindness",
+        "chapter": "Chapter agnostic",
+        "keywords": [
+            "helping others",
+            "kindness",
+            "selflessness",
+            "integrity"
+        ],
+        "type": "questionswithoptionsgita"
+    },
+    {
+        "question": "If we make a mistake, what is the best way to fix it?",
+        "options": [
+            "Ignore it",
+            "Blame someone else",
+            "Apologize and try to correct it",
+            "Keep making the mistake"
+        ],
+        "answer": "Apologize and try to correct it",
+        "chapter": "Chapter agnostic",
+        "keywords": [
+            "mistake",
+            "apology",
+            "correct",
+            "responsibility"
+        ],
+        "type": "questionswithoptionsgita"
+    },
+    {
+        "question": "Why is it important to see both joy and sadness as part of life?",
+        "options": [
+            "Only joy is important",
+            "Both help us grow and learn",
+            "We should avoid sadness",
+            "Only focus on joy"
+        ],
+        "answer": "Both help us grow and learn",
+        "chapter": "Chapter agnostic",
+        "keywords": [
+            "joy",
+            "sadness",
+            "growth",
+            "life"
+        ],
+        "type": "questionswithoptionsgita"
+    },
+    {
+        "question": "What should we do when we are faced with a difficult decision?",
+        "options": [
+            "Ask for advice and think carefully",
+            "Make a quick choice",
+            "Avoid making a decision",
+            "Let someone else decide"
+        ],
+        "answer": "Ask for advice and think carefully",
+        "chapter": "Chapter agnostic",
+        "keywords": [
+            "decision",
+            "difficult",
+            "advice",
+            "thinking"
+        ],
+        "type": "questionswithoptionsgita"
+    },
+    {
+        "question": "Why is it important to be humble even when we achieve great things?",
+        "options": [
+            "Because we should show off",
+            "Because humility shows true greatness",
+            "We should ignore our success",
+            "Pride is more important"
+        ],
+        "answer": "Because humility shows true greatness",
+        "chapter": "Chapter agnostic",
+        "keywords": [
+            "humility",
+            "greatness",
+            "achievements",
+            "success"
+        ],
+        "type": "questionswithoptionsgita"
+    },
+    {
+        "question": "If a friend is upset, how should we help them?",
+        "options": [
+            "Ignore their feelings",
+            "Listen and be supportive",
+            "Tell them to get over it",
+            "Avoid them"
+        ],
+        "answer": "Listen and be supportive",
+        "chapter": "Chapter agnostic",
+        "keywords": [
+            "friend",
+            "support",
+            "listening",
+            "help"
+        ],
+        "type": "questionswithoptionsgita"
+    },
+    {
+        "question": "Why is it important to accept both good and bad experiences in life?",
+        "options": [
+            "Only good experiences matter",
+            "Both teach us important lessons",
+            "Bad experiences are useless",
+            "We should avoid bad experiences"
+        ],
+        "answer": "Both teach us important lessons",
+        "chapter": "Chapter agnostic",
+        "keywords": [
+            "good",
+            "bad",
+            "lessons",
+            "life"
+        ],
+        "type": "questionswithoptionsgita"
+    },
+    {
+        "question": "What should we do if we see someone being treated unfairly?",
+        "options": [
+            "Ignore it",
+            "Speak up and try to help",
+            "Join in",
+            "Wait for someone else to help"
+        ],
+        "answer": "Speak up and try to help",
+        "chapter": "Chapter agnostic",
+        "keywords": [
+            "fairness",
+            "help",
+            "speak up",
+            "injustice"
+        ],
+        "type": "questionswithoptionsgita"
+    }
+]

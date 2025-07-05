@@ -1,0 +1,464 @@
+[
+    {
+        "question": "What is empathy?",
+        "answer": "Empathy means understanding and sharing someone else's feelings. It's like putting yourself in their shoes.",
+        "topic_tag": "empathy",
+        "difficulty_level": "easy",
+        "type": "questionsdb"
+    },
+    {
+        "question": "Who was Chatrapati Shivaji?",
+        "answer": "Chatrapati Shivaji was a brave Indian king who fought for freedom and justice. He is remembered for his courage and leadership.",
+        "topic_tag": "courage",
+        "difficulty_level": "medium",
+        "type": "questionsdb"
+    },
+    {
+        "question": "What does it mean to be kind?",
+        "answer": "Being kind means being nice and helping others without expecting anything in return.",
+        "topic_tag": "kindness",
+        "difficulty_level": "easy",
+        "type": "questionsdb"
+    },
+    {
+        "question": "What is honesty?",
+        "answer": "Honesty means telling the truth and being fair to others.",
+        "topic_tag": "honesty",
+        "difficulty_level": "easy",
+        "type": "questionsdb"
+    },
+    {
+        "question": "Why is sharing important?",
+        "answer": "Sharing is important because it shows you care about others and want to make them happy too.",
+        "topic_tag": "sharing",
+        "difficulty_level": "easy",
+        "type": "questionsdb"
+    },
+    {
+        "question": "Who was Mahatma Gandhi?",
+        "answer": "Mahatma Gandhi was a leader who fought for India's freedom using non-violence and truth.",
+        "topic_tag": "leadership",
+        "difficulty_level": "medium",
+        "type": "questionsdb"
+    },
+    {
+        "question": "What is respect?",
+        "answer": "Respect means treating others the way you want to be treated, with kindness and care.",
+        "topic_tag": "respect",
+        "difficulty_level": "easy",
+        "type": "questionsdb"
+    },
+    {
+        "question": "What does it mean to be brave?",
+        "answer": "Being brave means doing something even if you feel scared, because you know it's the right thing to do.",
+        "topic_tag": "bravery",
+        "difficulty_level": "easy",
+        "type": "questionsdb"
+    },
+    {
+        "question": "Who was Mother Teresa?",
+        "answer": "Mother Teresa was a woman who helped poor and sick people all her life. She was very kind and caring.",
+        "topic_tag": "compassion",
+        "difficulty_level": "medium",
+        "type": "questionsdb"
+    },
+    {
+        "question": "Why is it important to say sorry?",
+        "answer": "Saying sorry is important because it shows that you care about fixing things when youve hurt someone.",
+        "topic_tag": "apology",
+        "difficulty_level": "easy",
+        "type": "questionsdb"
+    },
+    {
+        "question": "What is teamwork?",
+        "answer": "Teamwork means working together with others to achieve a common goal.",
+        "topic_tag": "teamwork",
+        "difficulty_level": "easy",
+        "type": "questionsdb"
+    },
+    {
+        "question": "What does it mean to be patient?",
+        "answer": "Being patient means waiting calmly and not getting upset when things take time.",
+        "topic_tag": "patience",
+        "difficulty_level": "easy",
+        "type": "questionsdb"
+    },
+    {
+        "question": "What is gratitude?",
+        "answer": "Gratitude means being thankful for the good things you have and showing appreciation.",
+        "topic_tag": "gratitude",
+        "difficulty_level": "easy",
+        "type": "questionsdb"
+    },
+    {
+        "question": "Why should we recycle?",
+        "answer": "We should recycle to help protect our planet by reusing materials and reducing waste.",
+        "topic_tag": "environment",
+        "difficulty_level": "medium",
+        "type": "questionsdb"
+    },
+    {
+        "question": "What is fairness?",
+        "answer": "Fairness means treating everyone equally and not cheating or being selfish.",
+        "topic_tag": "fairness",
+        "difficulty_level": "easy",
+        "type": "questionsdb"
+    },
+    {
+        "question": "Who was Nelson Mandela?",
+        "answer": "Nelson Mandela was a leader who helped end unfair treatment in South Africa and worked for peace.",
+        "topic_tag": "justice",
+        "difficulty_level": "medium",
+        "type": "questionsdb"
+    },
+    {
+        "question": "What does it mean to forgive?",
+        "answer": "Forgiving means letting go of anger and not holding a grudge against someone who hurt you.",
+        "topic_tag": "forgiveness",
+        "difficulty_level": "easy",
+        "type": "questionsdb"
+    },
+    {
+        "question": "What is generosity?",
+        "answer": "Generosity means giving to others, like sharing your time, money, or things, without expecting anything back.",
+        "topic_tag": "generosity",
+        "difficulty_level": "easy",
+        "type": "questionsdb"
+    },
+    {
+        "question": "Why is it important to keep promises?",
+        "answer": "Keeping promises is important because it shows that you are trustworthy and reliable.",
+        "topic_tag": "trustworthiness",
+        "difficulty_level": "easy",
+        "type": "questionsdb"
+    },
+    {
+        "question": "What does it mean to be responsible?",
+        "answer": "Being responsible means taking care of your duties and making good choices.",
+        "topic_tag": "responsibility",
+        "difficulty_level": "easy",
+        "type": "questionsdb"
+    },
+    {
+        "question": "What is a role model?",
+        "answer": "A role model is someone you look up to and want to be like because they do good things.",
+        "topic_tag": "inspiration",
+        "difficulty_level": "easy",
+        "type": "questionsdb"
+    },
+    {
+        "question": "Why is it important to listen to others?",
+        "answer": "Listening to others shows that you respect them and care about what they have to say.",
+        "topic_tag": "communication",
+        "difficulty_level": "easy",
+        "type": "questionsdb"
+    },
+    {
+        "question": "Who was Albert Einstein?",
+        "answer": "Albert Einstein was a famous scientist who discovered many things about how the world works.",
+        "topic_tag": "curiosity",
+        "difficulty_level": "medium",
+        "type": "questionsdb"
+    },
+    {
+        "question": "What is creativity?",
+        "answer": "Creativity means using your imagination to come up with new ideas or make something new.",
+        "topic_tag": "creativity",
+        "difficulty_level": "easy",
+        "type": "questionsdb"
+    },
+    {
+        "question": "What does it mean to be humble?",
+        "answer": "Being humble means not bragging about yourself and being modest even when you do something great.",
+        "topic_tag": "humility",
+        "difficulty_level": "easy",
+        "type": "questionsdb"
+    },
+    {
+        "question": "Who was Florence Nightingale?",
+        "answer": "Florence Nightingale was a nurse who helped many sick people and improved how hospitals take care of patients.",
+        "topic_tag": "care",
+        "difficulty_level": "medium",
+        "type": "questionsdb"
+    },
+    {
+        "question": "What does it mean to persevere?",
+        "answer": "Persevering means not giving up, even when something is hard.",
+        "topic_tag": "perseverance",
+        "difficulty_level": "easy",
+        "type": "questionsdb"
+    },
+    {
+        "question": "Why is helping others important?",
+        "answer": "Helping others makes the world a better place and can make both you and the person you help feel good.",
+        "topic_tag": "helpfulness",
+        "difficulty_level": "easy",
+        "type": "questionsdb"
+    },
+    {
+        "question": "Who was Martin Luther King Jr.?",
+        "answer": "Martin Luther King Jr. was a leader who fought for equal rights for all people, no matter their skin color.",
+        "topic_tag": "equality",
+        "difficulty_level": "medium",
+        "type": "questionsdb"
+    },
+    {
+        "question": "What is curiosity?",
+        "answer": "Curiosity means wanting to learn and know more about things.",
+        "topic_tag": "curiosity",
+        "difficulty_level": "easy",
+        "type": "questionsdb"
+    },
+    {
+        "question": "Why should you say 'thank you'?",
+        "answer": "Saying 'thank you' shows that you appreciate what someone has done for you.",
+        "topic_tag": "gratitude",
+        "difficulty_level": "easy",
+        "type": "questionsdb"
+    },
+    {
+        "question": "What is responsibility?",
+        "answer": "Responsibility means doing what you're supposed to do and taking care of things that are important.",
+        "topic_tag": "responsibility",
+        "difficulty_level": "easy",
+        "type": "questionsdb"
+    },
+    {
+        "question": "Who was Helen Keller?",
+        "answer": "Helen Keller was a woman who, even though she was blind and deaf, learned to communicate and inspire many people.",
+        "topic_tag": "inspiration",
+        "difficulty_level": "medium",
+        "type": "questionsdb"
+    },
+    {
+        "question": "What is teamwork?",
+        "answer": "Teamwork means working together with others to achieve a common goal.",
+        "topic_tag": "teamwork",
+        "difficulty_level": "easy",
+        "type": "questionsdb"
+    },
+    {
+        "question": "Why is it important to be on time?",
+        "answer": "Being on time shows that you are reliable and respect other people's time.",
+        "topic_tag": "punctuality",
+        "difficulty_level": "easy",
+        "type": "questionsdb"
+    },
+    {
+        "question": "Who was Rosa Parks?",
+        "answer": "Rosa Parks was a woman who helped fight for equal rights by refusing to give up her seat on a bus.",
+        "topic_tag": "courage",
+        "difficulty_level": "medium",
+        "type": "questionsdb"
+    },
+    {
+        "question": "What does it mean to be a good friend?",
+        "answer": "Being a good friend means being kind, trustworthy, and supportive to others.",
+        "topic_tag": "friendship",
+        "difficulty_level": "easy",
+        "type": "questionsdb"
+    },
+    {
+        "question": "Why should you take care of your things?",
+        "answer": "Taking care of your things helps them last longer and shows that you appreciate what you have.",
+        "topic_tag": "responsibility",
+        "difficulty_level": "easy",
+        "type": "questionsdb"
+    },
+    {
+        "question": "Who was Leonardo da Vinci?",
+        "answer": "Leonardo da Vinci was an artist and inventor who created amazing paintings and had many ideas ahead of his time.",
+        "topic_tag": "creativity",
+        "difficulty_level": "medium",
+        "type": "questionsdb"
+    },
+    {
+        "question": "What is self-control?",
+        "answer": "Self-control means being able to manage your emotions and actions, even when it's hard.",
+        "topic_tag": "self-control",
+        "difficulty_level": "easy",
+        "type": "questionsdb"
+    },
+    {
+        "question": "What is honesty?",
+        "answer": "Honesty means always telling the truth and doing the right thing, even when no one is watching.",
+        "topic_tag": "honesty",
+        "difficulty_level": "easy",
+        "type": "questionsdb"
+    },
+    {
+        "question": "Why is courage important?",
+        "answer": "Courage is important because it helps us do the right thing, even when we feel scared or unsure.",
+        "topic_tag": "courage",
+        "difficulty_level": "medium",
+        "type": "questionsdb"
+    },
+    {
+        "question": "How can I be a good friend?",
+        "answer": "Being a good friend means listening, helping when someone is in need, and being kind to them.",
+        "topic_tag": "friendship",
+        "difficulty_level": "easy",
+        "type": "questionsdb"
+    },
+    {
+        "question": "What does it mean to follow dharma?",
+        "answer": "Following dharma means doing the right thing and fulfilling your responsibilities, even when it's difficult.",
+        "topic_tag": "dharma",
+        "difficulty_level": "medium",
+        "type": "questionsdb"
+    },
+    {
+        "question": "Why should I help others?",
+        "answer": "Helping others makes the world a better place and shows kindness to those who need it.",
+        "topic_tag": "helping others",
+        "difficulty_level": "easy",
+        "type": "questionsdb"
+    },
+    {
+        "question": "What should I do if I make a mistake?",
+        "answer": "If you make a mistake, it's important to say sorry, fix what went wrong, and learn from it.",
+        "topic_tag": "learning from mistakes",
+        "difficulty_level": "medium",
+        "type": "questionsdb"
+    },
+    {
+        "question": "Why is patience important?",
+        "answer": "Patience is important because it helps us stay calm and wait for things to happen at the right time, without rushing.",
+        "topic_tag": "patience",
+        "difficulty_level": "easy",
+        "type": "questionsdb"
+    },
+    {
+        "question": "Why should we be grateful?",
+        "answer": "Being grateful helps us appreciate the good things in our life and makes us happier.",
+        "topic_tag": "gratitude",
+        "difficulty_level": "easy",
+        "type": "questionsdb"
+    },
+    {
+        "question": "What is health and hygiene?",
+        "answer": "Health and hygiene mean taking care of your body by staying clean, eating healthy, and exercising regularly.",
+        "topic_tag": "health and hygiene",
+        "difficulty_level": "easy",
+        "type": "questionsdb"
+    },
+    {
+        "question": "Why do I need to wash my hands?",
+        "answer": "Washing your hands helps remove germs and keeps you healthy, especially before eating or after playing outside.",
+        "topic_tag": "health and hygiene",
+        "difficulty_level": "easy",
+        "type": "questionsdb"
+    },
+    {
+        "question": "What is a healthy meal?",
+        "answer": "A healthy meal includes a balance of fruits, vegetables, proteins, and grains that help your body grow strong.",
+        "topic_tag": "food and nutrition",
+        "difficulty_level": "easy",
+        "type": "questionsdb"
+    },
+    {
+        "question": "Why is breakfast important?",
+        "answer": "Breakfast gives you energy to start the day and helps your body and brain work better.",
+        "topic_tag": "food and nutrition",
+        "difficulty_level": "easy",
+        "type": "questionsdb"
+    },
+    {
+        "question": "What is weather?",
+        "answer": "Weather is the condition of the atmosphere, like sunny, rainy, or windy, and it changes every day.",
+        "topic_tag": "weather and climate",
+        "difficulty_level": "easy",
+        "type": "questionsdb"
+    },
+    {
+        "question": "What is the difference between weather and climate?",
+        "answer": "Weather changes daily, like rain or sunshine, but climate is the usual weather in a place over many years.",
+        "topic_tag": "weather and climate",
+        "difficulty_level": "medium",
+        "type": "questionsdb"
+    },
+    {
+        "question": "Why is it important to exercise?",
+        "answer": "Exercise helps keep your body strong and healthy and gives you energy to do the things you love.",
+        "topic_tag": "sports and games",
+        "difficulty_level": "easy",
+        "type": "questionsdb"
+    },
+    {
+        "question": "What is teamwork in sports?",
+        "answer": "Teamwork means working together with others to achieve a goal, like helping your team score a goal in a game.",
+        "topic_tag": "sports and games",
+        "difficulty_level": "easy",
+        "type": "questionsdb"
+    },
+    {
+        "question": "What is transport?",
+        "answer": "Transport is the way people move from one place to another, like using cars, trains, or airplanes.",
+        "topic_tag": "transport and communication",
+        "difficulty_level": "easy",
+        "type": "questionsdb"
+    },
+    {
+        "question": "How do people communicate over long distances?",
+        "answer": "People can communicate over long distances by sending letters, making phone calls, or using the internet.",
+        "topic_tag": "transport and communication",
+        "difficulty_level": "easy",
+        "type": "questionsdb"
+    },
+    {
+        "question": "What is a simple machine?",
+        "answer": "A simple machine is a tool that helps us do work more easily, like a lever or a pulley.",
+        "topic_tag": "simple machines",
+        "difficulty_level": "easy",
+        "type": "questionsdb"
+    },
+    {
+        "question": "How do ramps help us?",
+        "answer": "Ramps make it easier to move things up or down by reducing the amount of force needed.",
+        "topic_tag": "simple machines",
+        "difficulty_level": "medium",
+        "type": "questionsdb"
+    },
+    {
+        "question": "What are plants?",
+        "answer": "Plants are living things that grow in the soil and need sunlight, water, and air to grow.",
+        "topic_tag": "plant life",
+        "difficulty_level": "easy",
+        "type": "questionsdb"
+    },
+    {
+        "question": "Why do plants need sunlight?",
+        "answer": "Plants need sunlight to make food, which helps them grow strong and healthy.",
+        "topic_tag": "plant life",
+        "difficulty_level": "easy",
+        "type": "questionsdb"
+    },
+    {
+        "question": "What is a neighbourhood?",
+        "answer": "A neighbourhood is the area around where you live, and it includes your home, parks, schools, and shops.",
+        "topic_tag": "household and neighbourhood",
+        "difficulty_level": "easy",
+        "type": "questionsdb"
+    },
+    {
+        "question": "How can I be a good neighbour?",
+        "answer": "Being a good neighbour means being kind, friendly, and helpful to the people who live near you.",
+        "topic_tag": "household and neighbourhood",
+        "difficulty_level": "easy",
+        "type": "questionsdb"
+    },
+    {
+        "question": "What is a livelihood?",
+        "answer": "A livelihood is how people earn money through their jobs to take care of themselves and their families.",
+        "topic_tag": "trade occupation livelihood",
+        "difficulty_level": "medium",
+        "type": "questionsdb"
+    },
+    {
+        "question": "Why do people trade?",
+        "answer": "People trade to get things they need by exchanging goods or services, like buying and selling fruits at a market.",
+        "topic_tag": "trade occupation livelihood",
+        "difficulty_level": "medium",
+        "type": "questionsdb"
+    }
+]

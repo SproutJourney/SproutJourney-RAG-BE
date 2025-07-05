@@ -1,0 +1,1352 @@
+[
+    {
+        "question": "What is an example of technology?",
+        "options": [
+            "A tablet",
+            "A book",
+            "A tree",
+            "A pencil"
+        ],
+        "answer": "A tablet",
+        "topic": "Technology and Personal Security Awareness",
+        "keywords": [
+            "technology",
+            "tablet",
+            "example",
+            "tools"
+        ],
+        "type": "questionswithoptionsmainchapters"
+    },
+    {
+        "question": "Why is it important to use strong passwords online?",
+        "options": [
+            "To make it hard for others to steal our information",
+            "To make our account look cool",
+            "So we can remember it easily",
+            "To help others find our account"
+        ],
+        "answer": "To make it hard for others to steal our information",
+        "topic": "Technology and Personal Security Awareness",
+        "keywords": [
+            "password",
+            "security",
+            "online",
+            "safety"
+        ],
+        "type": "questionswithoptionsmainchapters"
+    },
+    {
+        "question": "If you see a message from someone you don\u2019t know online, what should you do?",
+        "options": [
+            "Reply to them",
+            "Ignore it and tell an adult",
+            "Give them your personal information",
+            "Ask them to play a game with you"
+        ],
+        "answer": "Ignore it and tell an adult",
+        "topic": "Technology and Personal Security Awareness",
+        "keywords": [
+            "online safety",
+            "stranger",
+            "message",
+            "tell an adult"
+        ],
+        "type": "questionswithoptionsmainchapters"
+    },
+    {
+        "question": "How can technology help us in everyday life?",
+        "options": [
+            "By helping us communicate with others",
+            "By making food taste better",
+            "By keeping us from doing any work",
+            "By helping us avoid learning"
+        ],
+        "answer": "By helping us communicate with others",
+        "topic": "Technology and Personal Security Awareness",
+        "keywords": [
+            "technology",
+            "communicate",
+            "help",
+            "everyday life"
+        ],
+        "type": "questionswithoptionsmainchapters"
+    },
+    {
+        "question": "What should you do before crossing the road?",
+        "options": [
+            "Run quickly",
+            "Look both ways",
+            "Ask someone to push you",
+            "Close your eyes and walk"
+        ],
+        "answer": "Look both ways",
+        "topic": "Technology and Personal Security Awareness",
+        "keywords": [
+            "road safety",
+            "look both ways",
+            "crossing",
+            "safe"
+        ],
+        "type": "questionswithoptionsmainchapters"
+    },
+    {
+        "question": "Which of the following is a simple machine?",
+        "options": [
+            "Lever",
+            "Television",
+            "Car",
+            "Bicycle"
+        ],
+        "answer": "Lever",
+        "topic": "Simple Machines",
+        "keywords": [
+            "simple machines",
+            "lever",
+            "tools",
+            "machines"
+        ],
+        "type": "questionswithoptionsmainchapters"
+    },
+    {
+        "question": "What does a pulley help us do?",
+        "options": [
+            "Lift heavy objects",
+            "Make food",
+            "Clean the house",
+            "Move faster"
+        ],
+        "answer": "Lift heavy objects",
+        "topic": "Simple Machines",
+        "keywords": [
+            "pulley",
+            "lifting",
+            "heavy objects",
+            "machines"
+        ],
+        "type": "questionswithoptionsmainchapters"
+    },
+    {
+        "question": "Can you think of an example of a simple machine in your home?",
+        "options": [
+            "A seesaw in the playground",
+            "A wheel on a toy car",
+            "A pulley at a construction site",
+            "A ramp in a shopping mall"
+        ],
+        "answer": "A wheel on a toy car",
+        "topic": "Simple Machines",
+        "keywords": [
+            "simple machines",
+            "home",
+            "wheels",
+            "example"
+        ],
+        "type": "questionswithoptionsmainchapters"
+    },
+    {
+        "question": "How does a ramp help us move things?",
+        "options": [
+            "By making it easier to push heavy objects up or down",
+            "By making things fly",
+            "By making things stay in one place",
+            "By making things heavier"
+        ],
+        "answer": "By making it easier to push heavy objects up or down",
+        "topic": "Simple Machines",
+        "keywords": [
+            "ramp",
+            "push",
+            "heavy",
+            "moving"
+        ],
+        "type": "questionswithoptionsmainchapters"
+    },
+    {
+        "question": "Which simple machine is used in a see-saw?",
+        "options": [
+            "Lever",
+            "Pulley",
+            "Wedge",
+            "Inclined plane"
+        ],
+        "answer": "Lever",
+        "topic": "Simple Machines",
+        "keywords": [
+            "lever",
+            "see-saw",
+            "simple machines",
+            "playground"
+        ],
+        "type": "questionswithoptionsmainchapters"
+    },
+    {
+        "question": "What is a map used for?",
+        "options": [
+            "To help us find directions",
+            "To play games",
+            "To make food",
+            "To clean the house"
+        ],
+        "answer": "To help us find directions",
+        "topic": "Terrain, Topography, Maps, and Basic Geography",
+        "keywords": [
+            "map",
+            "directions",
+            "find",
+            "travel"
+        ],
+        "type": "questionswithoptionsmainchapters"
+    },
+    {
+        "question": "Which of these is a type of terrain?",
+        "options": [
+            "Mountain",
+            "Spoon",
+            "Computer",
+            "Train"
+        ],
+        "answer": "Mountain",
+        "topic": "Terrain, Topography, Maps, and Basic Geography",
+        "keywords": [
+            "terrain",
+            "mountain",
+            "land",
+            "geography"
+        ],
+        "type": "questionswithoptionsmainchapters"
+    },
+    {
+        "question": "How do we know which way is north on a map?",
+        "options": [
+            "By looking at the compass on the map",
+            "By guessing",
+            "By asking someone",
+            "By using a telescope"
+        ],
+        "answer": "By looking at the compass on the map",
+        "topic": "Terrain, Topography, Maps, and Basic Geography",
+        "keywords": [
+            "map",
+            "compass",
+            "directions",
+            "north"
+        ],
+        "type": "questionswithoptionsmainchapters"
+    },
+    {
+        "question": "Why are different places on Earth called continents?",
+        "options": [
+            "Because they are large areas of land",
+            "Because they are close to each other",
+            "Because they are made of water",
+            "Because they are part of one country"
+        ],
+        "answer": "Because they are large areas of land",
+        "topic": "Terrain, Topography, Maps, and Basic Geography",
+        "keywords": [
+            "continents",
+            "land",
+            "geography",
+            "Earth"
+        ],
+        "type": "questionswithoptionsmainchapters"
+    },
+    {
+        "question": "Can you name one type of terrain and describe what it looks like?",
+        "options": [
+            "Mountain \u2013 tall with rocky sides",
+            "Car \u2013 it moves fast",
+            "Ocean \u2013 made of roads",
+            "House \u2013 where people live"
+        ],
+        "answer": "Mountain \u2013 tall with rocky sides",
+        "topic": "Terrain, Topography, Maps, and Basic Geography",
+        "keywords": [
+            "terrain",
+            "mountain",
+            "description",
+            "geography"
+        ],
+        "type": "questionswithoptionsmainchapters"
+    },
+    {
+        "question": "Why is water important for plants and animals?",
+        "options": [
+            "Because they need it to stay alive",
+            "Because it makes them colorful",
+            "Because it keeps them clean",
+            "Because it makes them happy"
+        ],
+        "answer": "Because they need it to stay alive",
+        "topic": "Water Around Us",
+        "keywords": [
+            "water",
+            "plants",
+            "animals",
+            "alive"
+        ],
+        "type": "questionswithoptionsmainchapters"
+    },
+    {
+        "question": "Which of the following is a source of water?",
+        "options": [
+            "Rain",
+            "Shoes",
+            "Cars",
+            "Bicycles"
+        ],
+        "answer": "Rain",
+        "topic": "Water Around Us",
+        "keywords": [
+            "water",
+            "source",
+            "rain",
+            "nature"
+        ],
+        "type": "questionswithoptionsmainchapters"
+    },
+    {
+        "question": "What can you do to save water at home?",
+        "options": [
+            "Turn off the tap when not in use",
+            "Leave the tap running",
+            "Take long showers",
+            "Water the garden every day"
+        ],
+        "answer": "Turn off the tap when not in use",
+        "topic": "Water Around Us",
+        "keywords": [
+            "save water",
+            "tap",
+            "home",
+            "conservation"
+        ],
+        "type": "questionswithoptionsmainchapters"
+    },
+    {
+        "question": "How do rivers get their water?",
+        "options": [
+            "From rain and mountains",
+            "From cars",
+            "From the ground",
+            "From the ocean"
+        ],
+        "answer": "From rain and mountains",
+        "topic": "Water Around Us",
+        "keywords": [
+            "rivers",
+            "rain",
+            "mountains",
+            "water"
+        ],
+        "type": "questionswithoptionsmainchapters"
+    },
+    {
+        "question": "Why should we not waste water?",
+        "options": [
+            "Because it is precious and helps living things",
+            "Because it makes noise",
+            "Because it is expensive",
+            "Because it takes a long time to drink"
+        ],
+        "answer": "Because it is precious and helps living things",
+        "topic": "Water Around Us",
+        "keywords": [
+            "save water",
+            "precious",
+            "living things",
+            "conservation"
+        ],
+        "type": "questionswithoptionsmainchapters"
+    },
+    {
+        "question": "What do plants need to grow?",
+        "options": [
+            "Sunlight, water, and soil",
+            "Chocolate, toys, and games",
+            "Shoes, hats, and books",
+            "Rain, cars, and chairs"
+        ],
+        "answer": "Sunlight, water, and soil",
+        "topic": "Plant Life",
+        "keywords": [
+            "plants",
+            "grow",
+            "sunlight",
+            "water"
+        ],
+        "type": "questionswithoptionsmainchapters"
+    },
+    {
+        "question": "Which part of the plant takes in water from the soil?",
+        "options": [
+            "Roots",
+            "Leaves",
+            "Flowers",
+            "Stem"
+        ],
+        "answer": "Roots",
+        "topic": "Plant Life",
+        "keywords": [
+            "plant",
+            "roots",
+            "water",
+            "soil"
+        ],
+        "type": "questionswithoptionsmainchapters"
+    },
+    {
+        "question": "Can you name a plant that grows fruit? What fruit does it give?",
+        "options": [
+            "Apple tree \u2013 apples",
+            "Car \u2013 bananas",
+            "Mountain \u2013 oranges",
+            "Fish \u2013 grapes"
+        ],
+        "answer": "Apple tree \u2013 apples",
+        "topic": "Plant Life",
+        "keywords": [
+            "plants",
+            "fruit",
+            "apple",
+            "grow"
+        ],
+        "type": "questionswithoptionsmainchapters"
+    },
+    {
+        "question": "What do leaves do for the plant?",
+        "options": [
+            "They make food for the plant",
+            "They help it sleep",
+            "They make it strong",
+            "They help it talk to animals"
+        ],
+        "answer": "They make food for the plant",
+        "topic": "Plant Life",
+        "keywords": [
+            "leaves",
+            "plant",
+            "food",
+            "grow"
+        ],
+        "type": "questionswithoptionsmainchapters"
+    },
+    {
+        "question": "Why is it important to take care of plants?",
+        "options": [
+            "Because they give us fresh air and food",
+            "Because they can walk",
+            "Because they grow on cars",
+            "Because they give us toys"
+        ],
+        "answer": "Because they give us fresh air and food",
+        "topic": "Plant Life",
+        "keywords": [
+            "plants",
+            "care",
+            "fresh air",
+            "food"
+        ],
+        "type": "questionswithoptionsmainchapters"
+    },
+    {
+        "question": "What makes day and night happen?",
+        "options": [
+            "The Earth spinning",
+            "The sun moving",
+            "Clouds covering the sky",
+            "The stars shining"
+        ],
+        "answer": "The Earth spinning",
+        "topic": "Basic Observable Sciences",
+        "keywords": [
+            "Earth",
+            "spinning",
+            "day",
+            "night"
+        ],
+        "type": "questionswithoptionsmainchapters"
+    },
+    {
+        "question": "What do shadows need to form?",
+        "options": [
+            "Light and an object",
+            "Water",
+            "Food",
+            "A tree"
+        ],
+        "answer": "Light and an object",
+        "topic": "Basic Observable Sciences",
+        "keywords": [
+            "shadows",
+            "light",
+            "object",
+            "form"
+        ],
+        "type": "questionswithoptionsmainchapters"
+    },
+    {
+        "question": "Why are shadows long in the morning and evening?",
+        "options": [
+            "Because the sun is low in the sky",
+            "Because the sun is high in the sky",
+            "Because the clouds are thick",
+            "Because it is raining"
+        ],
+        "answer": "Because the sun is low in the sky",
+        "topic": "Basic Observable Sciences",
+        "keywords": [
+            "shadows",
+            "morning",
+            "evening",
+            "sun"
+        ],
+        "type": "questionswithoptionsmainchapters"
+    },
+    {
+        "question": "What happens when you push a toy car?",
+        "options": [
+            "It moves forward",
+            "It stays still",
+            "It disappears",
+            "It flies"
+        ],
+        "answer": "It moves forward",
+        "topic": "Basic Observable Sciences",
+        "keywords": [
+            "push",
+            "toy car",
+            "move",
+            "motion"
+        ],
+        "type": "questionswithoptionsmainchapters"
+    },
+    {
+        "question": "What do we learn from observing nature?",
+        "options": [
+            "How things work",
+            "How to cook",
+            "How to read",
+            "How to paint"
+        ],
+        "answer": "How things work",
+        "topic": "Basic Observable Sciences",
+        "keywords": [
+            "observe",
+            "nature",
+            "learn",
+            "work"
+        ],
+        "type": "questionswithoptionsmainchapters"
+    },
+    {
+        "question": "How can you help at home?",
+        "options": [
+            "By cleaning my room",
+            "By playing games",
+            "By watching TV",
+            "By eating snacks"
+        ],
+        "answer": "By cleaning my room",
+        "topic": "Household and Neighbourhood",
+        "keywords": [
+            "help",
+            "home",
+            "clean",
+            "chores"
+        ],
+        "type": "questionswithoptionsmainchapters"
+    },
+    {
+        "question": "Who are our neighbours?",
+        "options": [
+            "People who live near us",
+            "People who live in another country",
+            "Animals in the zoo",
+            "People we see on TV"
+        ],
+        "answer": "People who live near us",
+        "topic": "Household and Neighbourhood",
+        "keywords": [
+            "neighbours",
+            "near",
+            "live",
+            "people"
+        ],
+        "type": "questionswithoptionsmainchapters"
+    },
+    {
+        "question": "Why is it important to know your neighbours?",
+        "options": [
+            "So we can help each other",
+            "So we can play with their toys",
+            "So we can eat their food",
+            "So we can use their TV"
+        ],
+        "answer": "So we can help each other",
+        "topic": "Household and Neighbourhood",
+        "keywords": [
+            "neighbours",
+            "help",
+            "community",
+            "important"
+        ],
+        "type": "questionswithoptionsmainchapters"
+    },
+    {
+        "question": "How can you be a good neighbour?",
+        "options": [
+            "By being kind and helpful",
+            "By ignoring them",
+            "By making noise",
+            "By playing loudly outside their house"
+        ],
+        "answer": "By being kind and helpful",
+        "topic": "Household and Neighbourhood",
+        "keywords": [
+            "good neighbour",
+            "kind",
+            "helpful",
+            "community"
+        ],
+        "type": "questionswithoptionsmainchapters"
+    },
+    {
+        "question": "What can you find in your neighbourhood?",
+        "options": [
+            "Parks, schools, and shops",
+            "The ocean",
+            "Mountains",
+            "Cars flying"
+        ],
+        "answer": "Parks, schools, and shops",
+        "topic": "Household and Neighbourhood",
+        "keywords": [
+            "neighbourhood",
+            "parks",
+            "schools",
+            "shops"
+        ],
+        "type": "questionswithoptionsmainchapters"
+    },
+    {
+        "question": "Who are the people in your family?",
+        "options": [
+            "Parents, siblings, and grandparents",
+            "Friends",
+            "Teachers",
+            "Strangers"
+        ],
+        "answer": "Parents, siblings, and grandparents",
+        "topic": "Human Relationships",
+        "keywords": [
+            "family",
+            "parents",
+            "siblings",
+            "grandparents"
+        ],
+        "type": "questionswithoptionsmainchapters"
+    },
+    {
+        "question": "How can you show love to your family?",
+        "options": [
+            "By helping with chores and being kind",
+            "By watching TV all day",
+            "By ignoring them",
+            "By eating all the snacks"
+        ],
+        "answer": "By helping with chores and being kind",
+        "topic": "Human Relationships",
+        "keywords": [
+            "family",
+            "love",
+            "help",
+            "chores"
+        ],
+        "type": "questionswithoptionsmainchapters"
+    },
+    {
+        "question": "What makes a good friend?",
+        "options": [
+            "Someone who listens and helps",
+            "Someone who ignores you",
+            "Someone who takes your toys",
+            "Someone who never shares"
+        ],
+        "answer": "Someone who listens and helps",
+        "topic": "Human Relationships",
+        "keywords": [
+            "friend",
+            "listen",
+            "help",
+            "good"
+        ],
+        "type": "questionswithoptionsmainchapters"
+    },
+    {
+        "question": "What is trust in a friendship?",
+        "options": [
+            "Believing that your friend will help you",
+            "Telling secrets to strangers",
+            "Not sharing your toys",
+            "Ignoring your friend"
+        ],
+        "answer": "Believing that your friend will help you",
+        "topic": "Human Relationships",
+        "keywords": [
+            "trust",
+            "friendship",
+            "help",
+            "relationship"
+        ],
+        "type": "questionswithoptionsmainchapters"
+    },
+    {
+        "question": "How can we show respect to others?",
+        "options": [
+            "By being kind and listening",
+            "By talking loudly",
+            "By ignoring them",
+            "By being rude"
+        ],
+        "answer": "By being kind and listening",
+        "topic": "Human Relationships",
+        "keywords": [
+            "respect",
+            "kindness",
+            "listening",
+            "relationships"
+        ],
+        "type": "questionswithoptionsmainchapters"
+    },
+    {
+        "question": "What do animals need to stay healthy?",
+        "options": [
+            "Food, water, and care",
+            "Toys",
+            "Cars",
+            "Shoes"
+        ],
+        "answer": "Food, water, and care",
+        "topic": "Animals and Birds",
+        "keywords": [
+            "animals",
+            "healthy",
+            "food",
+            "water"
+        ],
+        "type": "questionswithoptionsmainchapters"
+    },
+    {
+        "question": "Where do wild animals live?",
+        "options": [
+            "In forests and jungles",
+            "In houses",
+            "In cars",
+            "In the sky"
+        ],
+        "answer": "In forests and jungles",
+        "topic": "Animals and Birds",
+        "keywords": [
+            "wild animals",
+            "forests",
+            "jungles",
+            "nature"
+        ],
+        "type": "questionswithoptionsmainchapters"
+    },
+    {
+        "question": "How can we take care of our pets?",
+        "options": [
+            "By giving them food and love",
+            "By ignoring them",
+            "By feeding them junk food",
+            "By making them play all day"
+        ],
+        "answer": "By giving them food and love",
+        "topic": "Animals and Birds",
+        "keywords": [
+            "pets",
+            "care",
+            "food",
+            "love"
+        ],
+        "type": "questionswithoptionsmainchapters"
+    },
+    {
+        "question": "What do birds use to fly?",
+        "options": [
+            "Their wings",
+            "Their feet",
+            "Their beaks",
+            "Their tails"
+        ],
+        "answer": "Their wings",
+        "topic": "Animals and Birds",
+        "keywords": [
+            "birds",
+            "fly",
+            "wings",
+            "air"
+        ],
+        "type": "questionswithoptionsmainchapters"
+    },
+    {
+        "question": "Where do birds build their nests?",
+        "options": [
+            "In trees",
+            "On the ground",
+            "In the water",
+            "In the sky"
+        ],
+        "answer": "In trees",
+        "topic": "Animals and Birds",
+        "keywords": [
+            "birds",
+            "nests",
+            "trees",
+            "homes"
+        ],
+        "type": "questionswithoptionsmainchapters"
+    },
+    {
+        "question": "What is weather?",
+        "options": [
+            "The changes in the atmosphere every day",
+            "The same thing as the climate",
+            "The feeling inside the house",
+            "How fast the clouds move"
+        ],
+        "answer": "The changes in the atmosphere every day",
+        "topic": "Weather and Climate",
+        "keywords": [
+            "weather",
+            "daily changes",
+            "atmosphere",
+            "outside"
+        ],
+        "type": "questionswithoptionsmainchapters"
+    },
+    {
+        "question": "What type of weather is most likely to happen when the sky is full of dark clouds?",
+        "options": [
+            "Rainy weather",
+            "Sunny weather",
+            "Windy weather",
+            "Snowy weather"
+        ],
+        "answer": "Rainy weather",
+        "topic": "Weather and Climate",
+        "keywords": [
+            "rain",
+            "dark clouds",
+            "weather",
+            "precipitation"
+        ],
+        "type": "questionswithoptionsmainchapters"
+    },
+    {
+        "question": "How is climate different from weather?",
+        "options": [
+            "Climate is the weather over a long period of time",
+            "Climate changes every day",
+            "Climate is what happens only in the morning",
+            "Climate is how hot or cold it feels inside the house"
+        ],
+        "answer": "Climate is the weather over a long period of time",
+        "topic": "Weather and Climate",
+        "keywords": [
+            "climate",
+            "long term",
+            "weather",
+            "difference"
+        ],
+        "type": "questionswithoptionsmainchapters"
+    },
+    {
+        "question": "What should you wear on a cold and windy day?",
+        "options": [
+            "A warm coat and scarf",
+            "Shorts and a t-shirt",
+            "A raincoat",
+            "A swimsuit"
+        ],
+        "answer": "A warm coat and scarf",
+        "topic": "Weather and Climate",
+        "keywords": [
+            "cold weather",
+            "clothing",
+            "windy",
+            "climate"
+        ],
+        "type": "questionswithoptionsmainchapters"
+    },
+    {
+        "question": "What kind of climate would you expect in a desert?",
+        "options": [
+            "Hot and dry",
+            "Cold and wet",
+            "Windy and rainy",
+            "Snowy and cold"
+        ],
+        "answer": "Hot and dry",
+        "topic": "Weather and Climate",
+        "keywords": [
+            "desert",
+            "hot",
+            "dry",
+            "climate"
+        ],
+        "type": "questionswithoptionsmainchapters"
+    },
+    {
+        "question": "What is transport?",
+        "options": [
+            "The way people move from one place to another",
+            "How to call a friend",
+            "The weather in a city",
+            "A kind of game people play"
+        ],
+        "answer": "The way people move from one place to another",
+        "topic": "Transport and Communication",
+        "keywords": [
+            "transport",
+            "move",
+            "places",
+            "travel"
+        ],
+        "type": "questionswithoptionsmainchapters"
+    },
+    {
+        "question": "Which type of transport travels in the air?",
+        "options": [
+            "Airplane",
+            "Bicycle",
+            "Bus",
+            "Train"
+        ],
+        "answer": "Airplane",
+        "topic": "Transport and Communication",
+        "keywords": [
+            "air",
+            "airplane",
+            "transport",
+            "travel"
+        ],
+        "type": "questionswithoptionsmainchapters"
+    },
+    {
+        "question": "How do people communicate with each other when they are far away?",
+        "options": [
+            "By sending letters or using phones",
+            "By walking to their house",
+            "By thinking really hard",
+            "By using sign language"
+        ],
+        "answer": "By sending letters or using phones",
+        "topic": "Transport and Communication",
+        "keywords": [
+            "communicate",
+            "phones",
+            "letters",
+            "far away"
+        ],
+        "type": "questionswithoptionsmainchapters"
+    },
+    {
+        "question": "Which type of transport uses tracks to move?",
+        "options": [
+            "Train",
+            "Car",
+            "Boat",
+            "Airplane"
+        ],
+        "answer": "Train",
+        "topic": "Transport and Communication",
+        "keywords": [
+            "transport",
+            "train",
+            "tracks",
+            "move"
+        ],
+        "type": "questionswithoptionsmainchapters"
+    },
+    {
+        "question": "Why is communication important?",
+        "options": [
+            "It helps us share information and stay connected",
+            "It helps us build cars",
+            "It helps us run faster",
+            "It changes the weather"
+        ],
+        "answer": "It helps us share information and stay connected",
+        "topic": "Transport and Communication",
+        "keywords": [
+            "communication",
+            "important",
+            "share",
+            "information"
+        ],
+        "type": "questionswithoptionsmainchapters"
+    },
+    {
+        "question": "Why are sports important?",
+        "options": [
+            "They keep us healthy and teach us teamwork",
+            "They are fun to watch on TV",
+            "They help us sleep longer",
+            "They teach us how to paint"
+        ],
+        "answer": "They keep us healthy and teach us teamwork",
+        "topic": "Sports and Games",
+        "keywords": [
+            "sports",
+            "important",
+            "healthy",
+            "teamwork"
+        ],
+        "type": "questionswithoptionsmainchapters"
+    },
+    {
+        "question": "Which sport uses a ball and a goalpost?",
+        "options": [
+            "Football",
+            "Swimming",
+            "Running",
+            "Tennis"
+        ],
+        "answer": "Football",
+        "topic": "Sports and Games",
+        "keywords": [
+            "football",
+            "goalpost",
+            "ball",
+            "sport"
+        ],
+        "type": "questionswithoptionsmainchapters"
+    },
+    {
+        "question": "What is teamwork?",
+        "options": [
+            "Working together with others to achieve a goal",
+            "Playing alone",
+            "Running the fastest",
+            "Taking turns using a toy"
+        ],
+        "answer": "Working together with others to achieve a goal",
+        "topic": "Sports and Games",
+        "keywords": [
+            "teamwork",
+            "working together",
+            "sports",
+            "games"
+        ],
+        "type": "questionswithoptionsmainchapters"
+    },
+    {
+        "question": "Can you name an indoor game?",
+        "options": [
+            "Chess",
+            "Football",
+            "Cricket",
+            "Cycling"
+        ],
+        "answer": "Chess",
+        "topic": "Sports and Games",
+        "keywords": [
+            "indoor game",
+            "chess",
+            "games",
+            "sports"
+        ],
+        "type": "questionswithoptionsmainchapters"
+    },
+    {
+        "question": "Why is it important to practice sports?",
+        "options": [
+            "To get better and improve skills",
+            "To watch TV longer",
+            "To sleep early",
+            "To avoid going outside"
+        ],
+        "answer": "To get better and improve skills",
+        "topic": "Sports and Games",
+        "keywords": [
+            "practice",
+            "sports",
+            "skills",
+            "improve"
+        ],
+        "type": "questionswithoptionsmainchapters"
+    },
+    {
+        "question": "What is an occupation?",
+        "options": [
+            "A job people do to earn money",
+            "A type of animal",
+            "A kind of food",
+            "A holiday event"
+        ],
+        "answer": "A job people do to earn money",
+        "topic": "Trade, Occupation, and Livelihood",
+        "keywords": [
+            "occupation",
+            "job",
+            "money",
+            "work"
+        ],
+        "type": "questionswithoptionsmainchapters"
+    },
+    {
+        "question": "Which of the following is an example of a trade?",
+        "options": [
+            "Buying and selling fruits at a market",
+            "Playing games with friends",
+            "Watching TV",
+            "Reading a book"
+        ],
+        "answer": "Buying and selling fruits at a market",
+        "topic": "Trade, Occupation, and Livelihood",
+        "keywords": [
+            "trade",
+            "market",
+            "buying",
+            "selling"
+        ],
+        "type": "questionswithoptionsmainchapters"
+    },
+    {
+        "question": "Why is it important to have different jobs in a community?",
+        "options": [
+            "So everyone can help each other",
+            "So everyone has the same job",
+            "So no one works",
+            "So people can do whatever they want"
+        ],
+        "answer": "So everyone can help each other",
+        "topic": "Trade, Occupation, and Livelihood",
+        "keywords": [
+            "jobs",
+            "community",
+            "help",
+            "important"
+        ],
+        "type": "questionswithoptionsmainchapters"
+    },
+    {
+        "question": "How do people earn a livelihood?",
+        "options": [
+            "By working in a job to earn money",
+            "By playing sports",
+            "By going on vacation",
+            "By watching TV"
+        ],
+        "answer": "By working in a job to earn money",
+        "topic": "Trade, Occupation, and Livelihood",
+        "keywords": [
+            "livelihood",
+            "earn",
+            "money",
+            "work"
+        ],
+        "type": "questionswithoptionsmainchapters"
+    },
+    {
+        "question": "What is trade?",
+        "options": [
+            "The exchange of goods or services",
+            "Running in a race",
+            "Building a house",
+            "Eating food"
+        ],
+        "answer": "The exchange of goods or services",
+        "topic": "Trade, Occupation, and Livelihood",
+        "keywords": [
+            "trade",
+            "exchange",
+            "goods",
+            "services"
+        ],
+        "type": "questionswithoptionsmainchapters"
+    },
+    {
+        "question": "Why is it important to wash your hands before eating?",
+        "options": [
+            "To remove germs and stay healthy",
+            "To make your hands shiny",
+            "To make the food taste better",
+            "To wash off the flavor of the food"
+        ],
+        "answer": "To remove germs and stay healthy",
+        "topic": "Health and Hygiene",
+        "keywords": [
+            "wash hands",
+            "germs",
+            "healthy",
+            "hygiene"
+        ],
+        "type": "questionswithoptionsmainchapters"
+    },
+    {
+        "question": "What should you do to keep your teeth healthy?",
+        "options": [
+            "Brush them twice a day",
+            "Eat lots of candy",
+            "Drink only soda",
+            "Never brush them"
+        ],
+        "answer": "Brush them twice a day",
+        "topic": "Health and Hygiene",
+        "keywords": [
+            "brush",
+            "teeth",
+            "healthy",
+            "hygiene"
+        ],
+        "type": "questionswithoptionsmainchapters"
+    },
+    {
+        "question": "What helps you stay clean and feel fresh every day?",
+        "options": [
+            "Taking a bath or shower",
+            "Wearing the same clothes",
+            "Not brushing your teeth",
+            "Eating only junk food"
+        ],
+        "answer": "Taking a bath or shower",
+        "topic": "Health and Hygiene",
+        "keywords": [
+            "bath",
+            "clean",
+            "fresh",
+            "hygiene"
+        ],
+        "type": "questionswithoptionsmainchapters"
+    },
+    {
+        "question": "Why is sleep important for your health?",
+        "options": [
+            "It helps your body rest and grow",
+            "It makes you tired",
+            "It helps you eat more food",
+            "It makes your hair grow longer"
+        ],
+        "answer": "It helps your body rest and grow",
+        "topic": "Health and Hygiene",
+        "keywords": [
+            "sleep",
+            "health",
+            "rest",
+            "growth"
+        ],
+        "type": "questionswithoptionsmainchapters"
+    },
+    {
+        "question": "What should you do to avoid getting sick?",
+        "options": [
+            "Wash your hands, eat healthy, and stay clean",
+            "Never wash your hands",
+            "Eat lots of candy",
+            "Only drink soda"
+        ],
+        "answer": "Wash your hands, eat healthy, and stay clean",
+        "topic": "Health and Hygiene",
+        "keywords": [
+            "sick",
+            "health",
+            "wash hands",
+            "stay clean"
+        ],
+        "type": "questionswithoptionsmainchapters"
+    },
+    {
+        "question": "What is a healthy food choice?",
+        "options": [
+            "Fruits and vegetables",
+            "Candy and soda",
+            "Chips and cookies",
+            "Ice cream"
+        ],
+        "answer": "Fruits and vegetables",
+        "topic": "Food and Nutrition",
+        "keywords": [
+            "healthy",
+            "food",
+            "fruits",
+            "vegetables"
+        ],
+        "type": "questionswithoptionsmainchapters"
+    },
+    {
+        "question": "Why do we need to eat different kinds of food?",
+        "options": [
+            "To get different nutrients for our body",
+            "To taste all the flavors",
+            "To keep our plate full",
+            "To avoid feeling hungry"
+        ],
+        "answer": "To get different nutrients for our body",
+        "topic": "Food and Nutrition",
+        "keywords": [
+            "food",
+            "nutrition",
+            "nutrients",
+            "healthy"
+        ],
+        "type": "questionswithoptionsmainchapters"
+    },
+    {
+        "question": "What drink is the healthiest for your body?",
+        "options": [
+            "Water",
+            "Soda",
+            "Juice",
+            "Milkshake"
+        ],
+        "answer": "Water",
+        "topic": "Food and Nutrition",
+        "keywords": [
+            "water",
+            "drink",
+            "healthy",
+            "nutrition"
+        ],
+        "type": "questionswithoptionsmainchapters"
+    },
+    {
+        "question": "Why is it important to eat breakfast?",
+        "options": [
+            "It gives you energy for the day",
+            "It tastes good",
+            "It's fun to eat in the morning",
+            "It helps you play all day long"
+        ],
+        "answer": "It gives you energy for the day",
+        "topic": "Food and Nutrition",
+        "keywords": [
+            "breakfast",
+            "energy",
+            "healthy",
+            "nutrition"
+        ],
+        "type": "questionswithoptionsmainchapters"
+    },
+    {
+        "question": "Which of these is a part of a balanced meal?",
+        "options": [
+            "Vegetables, grains, and proteins",
+            "Only candy",
+            "Chips and soda",
+            "Ice cream and cake"
+        ],
+        "answer": "Vegetables, grains, and proteins",
+        "topic": "Food and Nutrition",
+        "keywords": [
+            "balanced meal",
+            "vegetables",
+            "grains",
+            "proteins"
+        ],
+        "type": "questionswithoptionsmainchapters"
+    }
+]
